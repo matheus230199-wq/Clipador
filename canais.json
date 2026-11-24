@@ -1,0 +1,44 @@
+{
+  "intervalo_seg": 120,
+  "intervalo_youtube_seg": 300,
+  "gravar_no_maximo": 2,
+  "chat": {
+    "twitch": true,
+    "kick": true,
+    "youtube": true
+  },
+  "twitch": {
+    "client_id": "mjfrdngo8po0y47jw2og7ymhjvq3oz",
+    "client_secret": "8c7n2bpctrokz5j0w9skms7crl4xhr"
+  },
+  "kick": {
+    "client_id": "01M7MKW37GQD730SYV4518B0W1",
+    "client_secret": "cd3f6e1436d1dd5a6c1e686c3d80ce7745661832f33cab37de1c4506bce7656f"
+  },
+  "ao_vivo_extra": [
+    "--sem-horizontal",
+    "--limiar",
+    "3.0"
+  ],
+  "deteccao": {
+    "min_espectadores": 100,
+    "salto_espectadores": 0.3,
+    "min_salto_absoluto": 150,
+    "chat_multiplicador": 3.0,
+    "chat_min_por_min": 30,
+    "cooldown_seg": 600
+  },
+  "canais": [{
+      "plataforma": "twitch",
+      "id": "alanzoka",
+      "nome": "Alanzoka",
+      "gravar": true
+    },
+    {
+      "plataforma": "kick",
+      "id": "davyjones",
+      "nome": "Davy Jones",
+      "gravar": true
+    }
+]
+}

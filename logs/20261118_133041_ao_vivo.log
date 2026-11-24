@@ -1,0 +1,11 @@
+Gravando a live em live_20261118_133042_18288.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py

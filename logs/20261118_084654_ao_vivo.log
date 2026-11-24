@@ -1,0 +1,12 @@
+Gravando a live em live_20261118_084654_19544.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[tls @ 00000227d55d8040] Error decoding the received TLS packet.
+[https @ 00000227d5684b80] Error reading HTTP response: I/O error
+[in#0 @ 00000227d5676800] Error when loading first segment 'https://b3817aabc693.j.cloudfront.hls.ttvnw.net/v1/segment/Cv4CrQ5nlId6ubGzYrxBKhzhqALFpDgyzwluZoyPtzOvYHA4SQ6NOeaAQazIHxmeMSl24fkggeyXwwj7mrNLi7xcjHCgh5L9hGBzdbz_3ND4aIAk2agDJ9fyyh2zQQACqVMHfwoLfte6sq8CYpK8icVHm-pQLPOOMWQR1zasBzEAm0kyYbzv3cSR2jVpF4Ij9T1hHtAec5JZFS_772SWxjNofL_17-jMyRQTEZEGqtBBHtp3Lx5jcD-2cA4TmDZSVQ3Pao_1LNkHdPBojDvvAxpvC-6Ntkhto1SOwDC7h3EHHxu7E76ZI9pzfHuQs9MJSh2F1RVwUb-bgjSu7Ke-C1rJYjaC-V1Acl92UtaIH4k_CtlfrMkpHw1eynq_UGCDvMe11UqoJIG1-_lccy-hl857QTNrVjy0QZqgj0hg_jPnNAeFIo57ZTmzmZIWo88cnojiQVi7_soguYSDxRB6Wy3inFZiedM7SWv3Hph11Dxeu_pqVTZS7l8HBvSYO2KM7hoMhtULHxb2Q4l3yZ2JIAEqCXVzLWVhc3QtMjDKEA.mp4?dna=ClLX9MQfWhfv42w-2WXkyXIBIHLsxCIfsielYEOffxPu6lzApDm09eMLvtL07-pHil7XQeq6edbl4v5JIB1nu2JXx-NnQU2WfHTbBK71WNis1_rBGgxjpv0iJpMGGH2TVlwgASoJdXMtZWFzdC0yMMoQ'
+Error opening input file https://sae12.playlist.ttvnw.net/v1/playlist/Cs8ForvhKqzHCFbX54BoXBfAqSXcfTbBYAq6iCE38ToUSPjkHXaMtIkM0Z2AyXhHUBsSC9SrUEXEwDEf5MUJhefAzLImtOsx-AsxM1yFuyxQGIP5Dl3Or3XpwGAOPjR43kA69FlKa1_taA6KPTM1UxS7CGSogWZPzG7HCYuXJ-TRuh9w0v05jsKTqTWw6TTfEHirH6YbJSybiDQo9fbjB_-tVNnxvMEo1zlBd4WNUL8sWPxKvz2a0FlEYRsVLbHUbrBuoVTLnCLOXnBflisN-p8krPNnY9PuczHWKGafc-SHsQqQOqY0iep9eHjrz782zUlWPtiKeqv8iGJGrQV2knBhF4TAsqAOwELMzFDbU8VUMsctlsQlFx7Nj_rWIA1zYN1y79Ix69mAEzrKZQjFq__jfXxjJ1n8Or_rE6euw_KDm9XtzNXGxlFam63c5vAf6KRRpMWbCb00OHLYfwH7eUkk80bghajHc5kgCL7sotRzCezrO6BVCVntsUZVOcR3zlbx3aF2TdkbBmZt-VwZg8r17yY3okK-eh_zUkZaLuACaID30Nceoud_XnN1XimmvFgYJraNiZ6Tx3F4O-sgb7TW-0-hHxZByNQ8SpZiVUfvkIYKS8ADkuPLvP6GYwvzTH2UZ_hGGsaQ54wgVpl1_bab4am_Z7Rcj7xCJ72KG-9paUXQIY60iPIWE8pCm4JkYpEv9pxRgEn9z2PFQvHV4Hkuhy2y4pVZeM6uDt5CP0ExCyzEqqUdaoi85-sOLfwxH5B46xk8MYOIDXDuG7ZLsw8YQIzmeG5Yc9okyVSwfMazroQwzzlnJu8u6IcB6MV6CM-TDcDnnLUqyLSl-hx_NyJAHlyOWrafiac-_g3mGSpTm-UJrnJhvzHCxPx7yv_l68OM0o2KhBqJXGSHXUfG1IOT21v4AxFvnnokVcoyTitb7wXX-VIZgNOY7pwNfJsUTe4aDAzQnRx68lkrAeglmiABKgl1cy1lYXN0LTIwyhA.m3u8.
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB188F79FD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB1A14DDA7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB1B759C5C  Unknown               Unknown  Unknown

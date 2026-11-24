@@ -1,0 +1,32 @@
+Gravando a live em live_20261117_080226_16480.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+Parando a gravação...
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261117_080323_4296.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+Parando a gravação...
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+C:\Projetos\clipador\venv\Lib\site-packages\huggingface_hub\file_download.py:149: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\mathe\.cache\huggingface\hub. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+C:\Projetos\clipador\venv\Lib\site-packages\huggingface_hub\file_download.py:149: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\mathe\.cache\huggingface\hub\models--Systran--faster-whisper-base. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+[tls @ 0000023611f15f00] Error decoding the received TLS packet.
+[https @ 0000023611fc7580] Error reading HTTP response: I/O error
+[in#0 @ 0000023611fc1e80] Error when loading first segment 'https://9b8458abf197.j.cloudfront.hls.ttvnw.net/v1/segment/CuMC7UAerfA0_opGVj6lu3IMMZMwaTKoseXUdP3X5vYAi984CGd95hMdG65z92ZIUx5v59z5e_0XFiPdn-vzA9V0sZwBenUM00kZ905f_VMWQdpvopV7QnS8O-MqWdiV__byaIrSrjHGyPxAe4UIbBNfT0UONP_f4JjssNUPTZXq1S2wRFV05QxFgCxTTRkNbEBKM8QQ8rGlAEjj7PHRMRuy8HRRa1BbvczHylhgoFqfOiFHdnqzsirGO1sDrsP-xtih-wZ6SiB0_mHD301UNi_N6bc_U8gq5j7aQLz8MWyLh_KhJ9EWxZ7RkKLTZHYLKCQA9xgUUXZbvK3u_hO8RVAK7NMM_p855TnwsL7dBpC7_FjUXyTYXiJtdXZ1nlSokWVLS-EfJGsDgRek-8B_KPklo3Avpj-Yk9M6Gh1Lv60E1scSZozteTLOr7NUVUexYlIXKI6fvPihrgoZWNsUEr3AOYx9kRoM0tM-izmzM1ohxIPyIAEqCXVzLWVhc3QtMjDKEA.ts?dna=CnuFDWkIjguJqWh8t-n4-WC9IONAf8ysO-6knkbzOWVqFuFfASte1ujAfwvNkc2x_jhfcVGyo6ulpqdfmd1TL269pM8ygajgNx3HNJOasPS4upWSeicQF9bGotNQaD9HwGpkOmZzYGxNvGoX1tXUtRv_sHO4df48-cDJCs0aDJ69gVvSbXsbo3Z_tSABKgl1cy1lYXN0LTIwyhA'
+Error opening input file https://sae11.playlist.ttvnw.net/v1/playlist/CrcF86gAnV_ih57anpqXYHt4uYBBAAN_iJtmmETWLihrGcH5x3tTGvN7feDDeY5KTYE78GrFh9HICdEj_xCxzA0XZl0xRnpSTNMI80Oqb4VUQe7qHdn2dNnAJqDdED9NhacfhatBU8_rq5SQv5GJOVBQ1RFPPzrr1Ixkuh35h0GFd8sPxV_ehSM-S5_1CUPre63LWALZ0m3ivIfIN561EvMn31qE0OlLrFYVOf2-Dgzo-4B4qCnNqSWDiGgA5z1DtwtfTMwuykv8YSHqB-Gn-OUV3wgAFslTy7PcZE6ahowSZGBmS1kcMt9eYg7D3YGtlq9LrS_Axu__E-6HJJRc_3pIz56s4ycXL75p8ddqokD8zcz1NUvPUwx5C8T8tIUiwZYsbwpV4rFqPkHkB0ZCtDBJXID5LeXn0MdrWmpO15Fy-K7xqvFlhgsW7AlShw4EYS1C-KlLzDKaA6pxq2grRj3j5uFp6cD7J5kcZxqY4Qg8ESNlCHifVs2GeHzXncU6cSkOFxbhj87HnI43jlzM7b2q3ItuQIhOLNtOM3_Hz0Ghdss7f5yaKGrEBlCrbdtEFuiPTM9luBo_C2DlImjicy9M_K1uUKigZkKQBYsRcbC-8FWwMv9SZd_IAyxlcNC7XIq7Q9lNtHIrbU8X8eLoya4MhIiNbV8ewCo8MkuYEri9PnGcfafJN4WxmrginQQhG9di_6SPgHsvdSvuFvYef8FFMfnQwPCRbzcxTW19JoUaNWxasaKJbWqs5_Ah6JckLvPylAEjwtbyfc9c4zjFfS3ExVJygcJeNjwgiprlqpj0079XhYO-JsQvoWpCs5tOtXbwHP0DcWnZ0afskwWX72XOsM4798K4FB-guIK23vkT1xhbGLmM9_cbdty667dyhIwkWthCJvi0xse6VX_eJHnEim0PLgMS6CMaDNfBu9d2e4OKSGEGYiABKgl1cy1lYXN0LTIwyhA.m3u8.
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB188F79FD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB1A14DDA7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB1B759C5C  Unknown               Unknown  Unknown

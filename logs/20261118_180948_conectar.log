@@ -1,0 +1,17 @@
+Gravando a live em live_20261118_180949_21012.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+Tentando gravar com o método: ffmpeg direto ...
+✘ ffmpeg direto não conseguiu gravar. Mensagens do programa:
+      [https @ 000002439ffb7a40] Will reconnect at 15292 in 0 second(s), error=End of file.
+Tentando gravar com o método: ffmpeg imitando um navegador ...
+✘ ffmpeg imitando um navegador não conseguiu gravar. Mensagens do programa:
+      [https @ 00000203486070c0] Will reconnect at 15292 in 0 second(s), error=End of file.
+          Last message repeated 114 times
+      [https @ 00000203486070c0] Will reconnect at 15295 in 0 second(s), error=End of file.
+          Last message repeated 312 times
+      [https @ 00000203486070c0] Will reconnect at 15292 in 0 second(s), error=End of file.
+Tentando gravar com o método: yt-dlp (baixa a live direto) ...
+✔ Gravando com: yt-dlp (baixa a live direto)
+
+TESTE OK: a gravação desta live funciona. Encerrando o teste.

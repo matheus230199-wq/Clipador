@@ -1,0 +1,1121 @@
+C:\Projetos\clipador\venv\Lib\site-packages\huggingface_hub\file_download.py:149: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\mathe\.cache\huggingface\hub. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB188F79FD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB1A14DDA7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB1B759C5C  Unknown               Unknown  Unknown
+[tls @ 00000268321781c0] Error decoding the received TLS packet.
+[https @ 0000026830276a00] Error reading HTTP response: I/O error
+[in#0 @ 0000026830268440] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvYCU3JFcWwTgaEJyKeDzXC9vVn6Ud9xFPzk1U_xWblj24SfD2bPwwpWhO9Ln2OQqWIwVUb0EF1Kjwr88O_pDxnKEXM-z90H-c6to6_vPhS1YRrBh48woA8wjie6IWwKFD2k2M6OhvzqrC47Q7v0C8U4ilCirR5xPNXFjzVwJE9hsQTBgii8NgtHHNge3gD0Ngs_EVBdxQiucC3q3uu7yVnW9br7NBgUpjFMdheaWpqfv0iA4eEyh9AE9G7obqO4hBUaCLnhg_ibBJIr55MeDq9K8cszmMRHCcsGgiD2AcEqY_DRFMUIJUz0e8J1MvGm8kCpurotDg5rPul8fvwVjf3ggauzqxljGRCk_eaSo737RtGEVm5BeNNkou0QT4F00dBx4FK-5TadbiCCefsqSUcFqYLMfiHWklAEgD1lH51xBy3IDcp5-Dc6jgKdGJdBtZF6cB3-I_Bapr0pn43ixDEiIsnig4W-Tmi-knPrMoLYMFo_gTSS1k8aDN04uuXtpclEPmJ3gyABKgl1cy1lYXN0LTIwyhA.ts?dna=CmYouPD0ZHX_Ib32FCLyAyqjbTK1B_AyEbGJTQ_Yn3Up3ouRAi4jOr89JY1VyPYa9zUkSjfFUUPGZqbvnQf2YaHy3R6jLLyiCqd_Q4uletJ6L6XC0IhN-gQwtSMMkitqDho1pEp5i3saDPFUYTqIqhb3mgMO1iABKgl1cy1lYXN0LTIwyhA'
+Error opening input file https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/Cq8G6D_dT7VAw6SJ3bai4KlSW3K8Xe5fO-uI7a4xa5DPtht-mcwEpgrLs5zRaOQfnI3dDCdkMMRhzo2_Rxn1ZJPtmJnDI_41K93NUklZ6vBPc7uYGlw2ZYHT3-POux-M2h2D3zJXgsaK5tpKnjCTjUWPV_oIBBk_Gnwo9_vVp07GyRw9JifR1tgggTIpK36Sv6Khda6sIvXkSYJLcPKdzUPSDuobsrlmZzonjikCXSO6LQ8XZCck_spipe2MfZha8ccn5_3twVBNFJ6WPdrRaEPhEyKK9vZvzqXR8LFer5dzTBscTSql3HUQNq3y5NSwKptoL--IqL9PlAl35FMp_GsUj-pX60xrMaN-ZBqk4UenX8keKmqDbz86JIjxeSDXbL6iEphKrZokZ6Z_TqwuRIj8l_xULKO2XOHPz--52gYs47j_i0iD_0gwdJwV8CQh5TG8qM4BeAxfjKKcDwYw8iKQEcYPus0yFFOGba9Oy3Q-dlSQRafKwJaR1_4f17vZIGQ2w_cXMZFdEun7DOLD1wtXpXxZvdQvMUQRFUr01BnBl5gnWyop68Fl4H246sgp3_D5WJEELcVRFww98xAOeVjDWx02GIZjvGQshWfp51nyetsMUJx54eYTjrPe2M1-3w289Eio3K5dPRIXTaHrkihAtNwD2VIM1OWVAWAJfxcu4IWbPZVO6RcjeayZ3bExXjv6zE5eiT-iCFWX1LcQiw4GmS7hYmB_71BOd_bWJx2bjR1ie1QZ4N-dc5d_eea0VCHA0Fwb_9217OvmwaxB32pUmGTDHHh1B1FCoOuQWs0kotgI2uCe1rgJZiHGBBmK1tdOugiCs9MB1jn-gRi_8v1aSbTt3QhBIREfmEz3ux_e_JPwHYArm3dXfvRmhuX4dv5y-K7wI7_OqMhPLtPnZ7kIt8xrNYKVuWk92K265l2SZ7-iC_HwYLRPO1uCo0be539pMS37PGFeUIvSJFSPwymYkBOU-hLh-tw-1ryqs8lBg0bJFPNaXGfJ1Tk_Y54lnN06lJ07R_DOrOjcuFy4hT8MIlK3qb_D6orw2gQlJAfun7sWgOlqvGuz_kDi8SU7kLMaDMkSjaqNuCbXl0519SABKgl1cy1lYXN0LTIwyhA.m3u8.
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB188F79FD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB1A14DDA7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB1B759C5C  Unknown               Unknown  Unknown
+[tls @ 00000247cec50240] Error decoding the received TLS packet.
+[https @ 00000247ce807380] Error reading HTTP response: I/O error
+[in#0 @ 00000247ce7f9080] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvYC3Po952FCzS2pqf8eY_sW-EhwbaaQcCAjfam3hnS4gfWVMnklvpQ-m0bpF5BuPyztWIcdWJdAG769r9vHy_Bb_2bnmIvoXp3REoS-eQAuHqLWVcthg4TibfdV92Fd8r6t-Zq1uEJgjjGJbPRhE8ceNW4wNqpG6JvpP8dRXYmR0uMVa92lp4H9aCjeWXguQBUl_5lDs3BEuEe8xRocpxCTKP2utkoGv8CEuqzR4l9pUGGJZRVaWGMFR_qVPGtrjxbL1qnrlFMn8BhD_S7IYvXd6WJALIwhF6OGl4i1Hw1Ze5_vBVByg36CswxEFJI9tkes87w0OH44sMObcEpr3CTVGcfRBpnwQ61coZHy5-mxroiVCZLeo9QqQAuXgEq9P1oy7UknV76hPwEPIhaGcGtSRqYC9E_HWHv1HSvz8Es1IShwPZJU6YvLY2D4hN8oe0lHvinGIezMeg2YkNpxmqTVcGOhZV9NY-_z7kF3B3Shb_pN6RbcT98aDMqH0c9DxVJ9yx-eYiABKgl1cy1lYXN0LTIwyhA.ts?dna=CmZi8co7CqvDsT0Ucqm7YoLZaS9JsBRf9UqChusHh2eRYsERFX-M42GUEv5E8xdm81WMygQLoixXR0IWBCRQKK42A_gcDlk4gwcYYvXe6Xfjo71ouufTwEaZjDMtg_Q6OKgUfZV--9YaDH9V948tyxzJ-tKyFiABKgl1cy1lYXN0LTIwyhA'
+Error opening input file https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/Cq8GORU7ucjD9bk_zHuf12tU7LqG9fYrOUVxKE_9XTiFaPKOTo4n7-7xizLp06NWFHiAsGSLeMmqZZY4SQzG38aY33dWEPetMYPtE542a42C2Y4w_psurDMiDvwtBxFwwzMM6GerfAMfkeymAH5xqjTuq8tMdkJMp10VxSIWgXiQlla-Lzgfz95jp4EEQwiVr5973LIZidh-POMGYJXiHRH4wpUU99YuH0tyNrb1IAkTlKTvHtaWreGTq1UcSkSUoD3OG8BruFZs-RPJdxg1A_IWIVlP5ZWm5ZyCCQBd95mq0cylFUQO7-mLZAGJj1zJRAF1DxURtasa4ZKw5SIu_z0x53pJYDSAeEd8DVLx6zNK4hz1gPmNMqK6mQnXAXrKkAfi0fskPl6z5mT1SXAudHzjnGHyORfKrzSoIAQvwmmyrAxln8_v1uD3PdLSHsfAWS8VFTupyhtG-toea_Gif-MxqaxRp4oXtfTTsT8N5pLJ1I5-U5T-I_NZRLHLGAFogOvifCCCuEGllc_NBZzSzIBKOzDi-lGt9nJ1RKhbLWNAKgYISxFXiMa6jXHcnY_tNf_gol75uDLQ6bKL9_38JyX8swE8oBACeHnOLyaxKWoG1pbqXn0WWhTSo9XL7s5Ipa46hR01y6Rd7OYtgtAxt4zw-T5NNnJrR8fBZ51g0lhXWJ7EhR8bWMqrzlWNL90TYQG-hOogJVYJx5OzuzAkM_lp7JQBVGxGzQZkqpTlhu_j659Zm6X0MkHobxkT-tPlSusJ8Z9OZzqg99Cgt6xmekH6idyfBpPD5D4lgrtXnyDbsW3yLh0x10nYjN-UM_81TqLnwIJzo3CERz3t7Dv2DIqmbbf43u_VyuGiuFSucLKl1bA-9DG3t7THV2yxGWpA2BWPqfSIi38urNQlAGfsFIf02nVuqHGaXWGGNe8pdfV7ViomSQkRRpf2Hr5GlevPcwfUEZTxEcnez0J2GaW5iu6yijBEUnec48Pe2TudP3wNV9oklzzJvfHXor7K_0X8FcG-6AbEyuFKr1Kt4IHr97yKOd38p992Bf_QIkgF8wXBUD8cNMF4Zdbn0HNMheKZ8RkaDIQ70f10tSqr20hN9iABKgl1cy1lYXN0LTIwyhA.m3u8.
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB188F79FD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB1A14DDA7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB1B759C5C  Unknown               Unknown  Unknown
+[tls @ 000001e160cc1f40] Error decoding the received TLS packet.
+[https @ 000001e15f309280] Error reading HTTP response: I/O error
+[in#0 @ 000001e15f2faf80] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvYCxrULnGNlEAovR7pmpEebSDXWGlxJuqohEsgptApdFELp_TcZirvx5fFanh7oCPaJE5oJZq2PlWz0gK9RU65Cc9LdEG2tPgaKVpcKx0yqSnJzZt2V7L5hOTDV3zc0WuoXIcHxlcQ8m1l1i4rF0x4diKaJ9eFGgvwI4xTL9So2ceyfHyeE4JmjZyr3Ws9eg6oejXUOfclqquAmTQhUgHOMuXjL5QxSOYP2mDM7JWQcj2WqjeivIC1V61WdBpm0wUKtrodZnxIn5ZzptYRL_3cwPw8mqBUVCg0bhNAWDIcI9SpJMSHmA3SNFbP98WMoiW37iUoPevveSJeotZqZ6AyFrCHmWg4gSti91Qj3Jm_MzBpyQEclYw9sbNX7hqmGnqagLa1mqhJuwLKirzNWLa6qA5tG3B2GOLNQzVtlCm9HbuhE2aAdRbBqxS87E29-WuAsgkJLN0snWJKs8TNQoWInWdnOBb3f5Bc_9wbYuYenD5vR4j9A9jwaDB4WyQn3rDwJS4An8SABKgl1cy1lYXN0LTIwyhA.ts?dna=CmY-QDlrZ25TtJKIPcmiQ2kQbz6MEytvzzXu9PBeQAifZLTrnxD750tZz-I-MHvI-aWrN6BQbZ23VGJu8AO6GdjT9-xBwqTrEIFL4hFmBfTq_ty83P0jwhg6MlglQ49z_zkf_xzMAvEaDGevRDbg1EXWt-8lSSABKgl1cy1lYXN0LTIwyhA'
+Error opening input file https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/Cq8GlUHKPAZeOaLoUFcrTgEGjJJ2mc72K9bsLsz7q6HyL6EnoqEP1O9w92jNaWdMeUFAVwBPRzdf-6Ad_7S9AxfCVcJ47kXj899YyCYU5fHRaPRrfUlToP7pNujERmvEI3NHmufifW726rZdA00aFmwUzrfsRHdAZCxe2szuleIMl9fw5pFIGv2oKO__mRMYIRkElP2vU4-6gEQDao_64kzlvnxcmWuYNC3ra6smAw_WPSJjcJFBRq2xueSiAPH2DU50sYesdCQ5NdJc6ozooZT1_RPvQBSDYItbAPSBEA8AI1YZkiHnAm_Wt7LFMpUIO60mYFPDyVtK8MbfUdFg--VsEnEfrbWXNU97c4Bj_9YTcU1i129cM5rSZPFNz4mvQlFdmui-R4Wg6y1XERKwl0efL5NZFaglOZuN60SSQ1lI-md6e8QuzvpUVa2FvMCG84XvHY9jekPZto-iGQuJTx7PabjfWcnFXtB2Oi9Kw16V8EjEuGYWvjCdQTLnEX8_jrTq6lGzbX_2AIRUB11LJm8E2aZIFEFrH3zLuzJglMcHlJqoRPmXGMOUKksQ7Src-X9l3chSVWU_0Zai4RO5fzY6AnHEsxxZplPBgmbuSHAxJxk2yeQtkQQD7ieJOp6UzclclDI_sxZqywF_BvYTMpBoLhab9rNbd7WmJkcQfGzb68pPwkLy0Rc0VKlpZ8i3SeZ4-21HgOVmD6lqfh3YhD3xq76K3Ph8Sw5WovQ89kVrwo-v9SJiqhfRycM7lvebPoMPvBEYSKQGygg1UxDi7r-_bbQ-YCy8PIlo5SG7_OP-jYYW6PO7LzB6I4J76PpsS9Qql0JdwARMRyqSmOWVPsA3CVD_6NfJwv0U7Yxn8euSc54FLZ8LIUxVVIfZ2DjVV6iv55Khq6I07sZ_AYYEaRHmpL9MM8A2EG140PGnrQlvkAlXoqBuJo1vUwhripjanW3hlClw-9lIcbO4fvuaLKF9PLoGnyylOIb4TiyNhZf9fxT1RNON5zn-UEHyCNUfh0iChjJgSQKaj6AaawBa9EaPG6-iKYmPxmO76UfTuB-l3LZ9A_QtjoqDh4-CpvqhC3gaDOBJEJFXjynBPKQYgiABKgl1cy1lYXN0LTIwyhA.m3u8.
+forrtl: error (200): program aborting due to window-CLOSE event
+Image              PC                Routine            Line        Source             
+KERNELBASE.dll     00007FFB188F79FD  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFB1A14DDA7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFB1B759C5C  Unknown               Unknown  Unknown
+[tls @ 0000018d15da8c80] Error decoding the received TLS packet.
+[https @ 0000018d15a39940] Error reading HTTP response: I/O error
+[in#0 @ 0000018d15a2b840] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvYCMnKKpWkyKml8xh3kjag84_ZODjA7vrxQiF8mdLYELUB0x_e3p8KeKE5TDc-84KS1-sCynrfH6c6-FnJR8nyMktRUaRkXquvHrf70nQYG1Va-QEAqc9R65buiMp6G4PVXC9Fu4-GeMttjHuCBx2TZ17C4QoL3cu1MNRW5KtvnzHwaecVbIZETeL0TWpbQqIsS_ZGhbfbg-x40fKB_lhG12w9tobvR5Lywu6qYnZwhUKXJ1zwU7Ldp_NZ3H7b2JRQTLCCv8doWp439zhXWl5K0WLUQeYn0-qppqdgN1apu2PlO8KTnS49esSGxXFbJ-_fQ-8Nv3saRTJ5rHfeTDkgdzXYHxU-wyNT4SJoSSP1aLMWTTBEpJ30mc7-H8qFs9KiHZGfbe601fyxF5rc3u3az5Nq6BCCNF4TG0L_Y-7i25nTZbUWpCZi6Yc7VC5bsjGYkLyji7rfCKREpXpf-0ayG-rIoodGJD1tvZY3t_TBEBJkrkfbEBuEaDP_tyPT8rRCg_2-82iABKgl1cy1lYXN0LTIwyhA.ts?dna=CmaF65hp2TZWWuBEWT35vwdtz0BSMEOPN8RqH3brU3XIy9VHX_QvqxCq_UMU7TFVoehpasXp_s987f5ipF8uPH9oBowxE0PDcAv9i4bVB3FRqG5P80KmXeVCOx8DT0I7Mbof-fTgafAaDBkHcqbMmkojbcQqfCABKgl1cy1lYXN0LTIwyhA'
+Error opening input file https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/Cq8GD453R3CWQ-Y0npEwjr4PTAVFTlqFOWXHXD44-sROcSDMCoVRqGtEvv-ufwhTA_lQInxHAzm7QXUb8ot3JkWV0L0nH5GurIn6iEqAb6C_lKfmAd3Td2bmLx0U8hq6qycB7JkAJkF2sLROThAEmzG-S0JWUqIMNodUD5SMQkEFhvp2iPaaMw3kvRLz5WHuIeK_0Qvvuh1tKPRDvWJJgYPsN_yNCCX3lgnzxXDb-8feKD4ZLRlEKtqFR3uw9eWTbGfaxzaWW6gzbxWdAwxPhblI96wkU0DQdjExTU4eP_U8l76YDId6-KR7qy4QOvHpGgX1KWz2KanXNkSoY3E7jkSalNqHdPIhoBfhMhdyK-s1oAD2Zwi6CT890pYzMf2O5QmYMXhiVAluuy7psnhtFSgg5jCa_-bz5T0DeGZ1c5mfyyMnqcCU0k4inMza6sUlbxWrC-3cgdI03hXS9RqtMI3ptCLLbyS8bhnzlFBoyqqf07nSFbFpaQPyet7GTvEN5R9LXCiUeqxQuXSoHsOIrFhBuOvjVWps4vSj_oeyHHYvJyW4zOq4KJ0bJXJBxIRo-S63145t3UJ_EIdOSdjq4L7On17QSbvSN6Lp24c-QCLj3z6IlCoSvBua0pXJDHwhCEWbJrRN3Wqq7_Aj5UomBSeomNMmsD3aY-IsKJbQ0ezuH5W-fNXbqZKbJEhKcIdRqnrZl5o4utaP-irTdYMO48xSCYlbtLDBQJcSLl5CtI3Y5evH6qBGObCpIrzwDR_3FuBCIPgQgXxqbiqK6sQ2ZAhYE7G1NH44rgsvg_k7AwmAUXA-C3J5ia6tHDtY_BM7GPl3Gsgh646VNCUc7CRMwO5Zq15nGXQWDMvyw1TDI53iQ6uOkcZ4ISjC3CeHNz5r-Fm9SbWiOZZJQIUz57lS3aEKQ0zgiORV2Ug0jY6Z5FBllDmudw7lHnm09uN0cTV48iXg5ZXldJhFvj5QwXPQAsjzHH2fw9YGpqbetEiON7Gn9_rDvo80bRwQwg6F97rRcc70YwYZJGF487Hznt7u3VxrUTpjF-UmPupTCqveYfXCxh2aXQKo7jjFcs81RDtHLEMaDMVzXUszTjNvSDt87iABKgl1cy1lYXN0LTIwyhA.m3u8.
+Gravando a live em live_20261118_080455_15556.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+Parando a gravação...
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+[tls @ 0000026f364294c0] Error decoding the received TLS packet.
+[https @ 0000026f34596b80] Error reading HTTP response: I/O error
+[in#0 @ 0000026f34588bc0] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvYCJDVXWCih0ui3YhkicD4G4cUX6yr_YK6arwYcgqe-PIxk678mYk1acBcT05qrYDZBDlZ00RHADOsPVNc2q0rrriz3z0FwRkfRnyi0LRi2FwL2f5b8y4TYT-6hly8p9UMcgnUWzlh-GHS08U9W-gu67LoyTSUYWS0JjS8HWnK2xp1OecyfUJ8upXPBu7iYMzBd9_aUamBJj7xHAgelBWUFYdlLDNJm70SSoiyT76Q1KtnREQ0BnsMJhzBTJAkeA33bHKkIwoIhQBI5cJ464Qo525wUXt8W9W9nsg3fYum4qTMbFY3KtTTO8rATxkm69FHq6rnB_H4xjKyGHf06NcityeoVJM4_9ZJoWvUYy22jfpZkYBqzhvwrVC3mAyBLFfZ0PTPRB1hKvXcnTuIqSarrbuaeiJ5fL1mDUpBleTkE1JudCRq-KacKSUHj8uru0dxensa5DeGLTnpEKyVVy8Cv8IIuuXoU3tX9D_yJWeqKPWPkS21nKGAaDDHBzScHlVXYJlNKBiABKgl1cy1lYXN0LTIwyhA.ts?dna=CmblVSbSy4hPWfV-7QfRYG8Y1CaIPYnnTNqe_jOr9rA4acuFsoaQSmY6H05VEjKojpkK_AVRZ0OC6L_SdHSnWJWAnXIx9YHaSnV1rPweU5B8mWoFKRG0e4PHrPhyVySwP6JAXddFRV8aDBuGmv_FDi1aZ3oIzyABKgl1cy1lYXN0LTIwyhA'
+Error opening input file https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/Cq8GePK0eRfNgk6fWB0mWREsK-GqD5FnNHFl0uEdr_a4E0nNJe8Xz1wiPIt-j-glASq9yksJbKbxcCDS0XQyK6rq7YleZ-hUsuhpZ4a1dAKOljIZU2MMxcsjcbkn7pOhZoSUudQk5N2IS3IAVdngEjy8J-JBA52u9hdNJ2S2EH_3wpkjSnVAOAeA00ifjMj_KU__CUfZ60wgmGke3uY_cqoVKkR_3YYw-jY_jxh7F4B2VrNmzGG-mOVLHu8gkPVeW2QhChZwYi3TWWn6mrFnvGTSiLsLAY9iK1ZmTjTvmG3fYgWDES0sbWY6k_ZJGTiaa1LnyGbpOtxkBF_fJ9loZ0nuvmyPmgJ-tCiWrDwKsgLcbHT2vtoLjLu67CmS1xqPA0QMzE4N-aVSQXy0RT83FnB90XnfZ_-muDz6stui59K8ONl03yqUubhdBiNfkcsyCW6vwCt5XCYnD6o9P7uITwFkF76ad3fEifGfaNTWwPA8uycVNSib_qJRD_JpKNp8cIKm3nmycMmbMjruRf0Gr2i7sQ04tkcb-QB2ruhIjutlFzxD1rgAo6EpD_hinaUeZGHdrqAc0Jekq13tadenC8bUw7yLbW7BRy667PcF9ImTGlH3fBJ7PUfMjBSZtTkEq-9beig6jTj9FXIrH_vopVx4ve49Kdz9ByH1TMk6ei99-WfL9XXwvecXudjzClAl_VbDxHs0Nb1XOx0YIwxQxnC99AhQsQ2pBq3HmHnos8ZveoM9h19ZJlpDei3f9NOTLD2fobac0Osn3YcReaQ7kRKhcME9P86s7bbgTzZ2XoTnCDq5Bwnhi4jAC2fpNvwaffsGl4PauIznioxgxtcC688yJDItnoQrAk2kjBVaUXDNuTU9ZqWjEB4ogtrtOGXIvC9ZjTX6wk-PVZ1vCPU6LinV_glnUoilUF6MLT5oBA51trSOg9dkXeae5sl9HsMbryAhMPdaaUO9HxKDDVyE_Elc__Dl_SPYA4gh3lRK5MHCMj-qA-QjpUE7_KvEmjEjimgdu3dBWoWYfGcQbY6Mym6txYm1Fmxo2pF61IuJka3uU1mCdVHodXoPRkl9C8nEH6MaDBMW3TOQMlzkbgHHzyABKgl1cy1lYXN0LTIwyhA.m3u8.
+Gravando a live em live_20261118_082209_21276.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+Parando a gravação...
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_130004_21456.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_130710_16488.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_131317_21472.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_131923_16956.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_132526_16872.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_133129_21260.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_133732_17820.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_140155_14276.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_140759_13384.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_141403_7288.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_142005_6768.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_142608_13820.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_143211_16844.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_143814_21628.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_144417_8752.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_145020_1556.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_145623_3168.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_150226_1588.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_150829_1288.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_151433_20804.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_152038_18880.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_152648_4824.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_153254_18792.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_153705_16196.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_154309_17824.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_154913_14256.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_155516_13996.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_160120_12124.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_160723_20444.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_161325_15044.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_161929_20088.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_162532_20896.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_163137_16088.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_163741_12664.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_164345_11228.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_164949_14460.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_165553_2848.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_170158_5760.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_170803_19540.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_171407_8272.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_172011_19340.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_172615_14840.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_173219_16996.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_173824_8824.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_174428_19892.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_175031_13612.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_175634_21120.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_180237_6796.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+[00:00] gravando... 0 MB
+
+ERRO: a gravação parou de crescer há 2 minutos (a live caiu ou o stream travou). Encerrando.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Gravando a live em live_20261118_181545_2812.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+Tentando gravar com o método: yt-dlp (baixa a live direto) ...
+✔ Gravando com: yt-dlp (baixa a live direto)
+[00:00] gravando... 14 MB
+[00:30] aprendendo o volume normal da live... | gravação: 26 MB
+[01:00] aprendendo o volume normal da live... | gravação: 38 MB
+[01:30] aprendendo o volume normal da live... | gravação: 50 MB
+[02:00] aprendendo o volume normal da live... | gravação: 62 MB
+[02:30] aprendendo o volume normal da live... | gravação: 75 MB
+[03:01] aprendendo o volume normal da live... | gravação: 86 MB
+[03:31] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 100 MB
+[04:01] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 112 MB
+[04:32] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 123 MB
+[05:02] 🔥 momento forte em 04:32 (nota 4.1) -> renderizando
+[05:32] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[06:02] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[06:33] 🔥 momento forte em 05:49 (nota 4.3) -> renderizando
+   ✔ corte pronto: live20261118_181545davyjones_001 (nota 4.1) -> abra o painel para aprovar
+[07:03] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[07:33] 🔥 momento forte em 06:59 (nota 4.3) -> renderizando
+[08:04] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[08:34] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_002 (nota 4.3) -> abra o painel para aprovar
+[09:04] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 234 MB
+[09:34] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 247 MB
+   ✔ corte pronto: live20261118_181545davyjones_003 (nota 4.3) -> abra o painel para aprovar
+[10:05] 🔥 momento forte em 09:39 (nota 4.6) -> renderizando
+[10:35] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[11:05] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 284 MB
+[11:35] sem momento forte (maior nota 0.2, limiar 3.0) | gravação: 295 MB
+   ✔ corte pronto: live20261118_181545davyjones_004 (nota 4.6) -> abra o painel para aprovar
+[12:05] 🔥 momento forte em 11:35 (nota 3.5) -> renderizando
+[12:36] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[13:06] 🔥 momento forte em 12:39 (nota 5.2) -> renderizando
+[13:38] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[14:08] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_005 (nota 3.5) -> abra o painel para aprovar
+[14:38] 🔥 momento forte em 13:56 (nota 4.5) -> renderizando
+[15:09] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[15:40] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 394 MB
+[16:11] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 407 MB
+[16:41] 🔥 momento forte em 16:08 (nota 3.4) -> renderizando
+[17:11] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 431 MB
+   ✔ corte pronto: live20261118_181545davyjones_006 (nota 5.2) -> abra o painel para aprovar
+[17:42] sem momento forte (maior nota 0.4, limiar 3.0) | gravação: 443 MB
+[18:12] 🔥 momento forte em 17:39 (nota 5.6) -> renderizando
+[18:43] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[19:13] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[19:44] 🔥 momento forte em 19:21 (nota 4.3) -> renderizando
+   ✔ corte pronto: live20261118_181545davyjones_007 (nota 4.5) -> abra o painel para aprovar
+[20:14] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 503 MB
+[20:44] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 516 MB
+[21:15] 🔥 momento forte em 20:48 (nota 3.1) -> renderizando
+[21:45] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_008 (nota 3.4) -> abra o painel para aprovar
+[22:16] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[22:46] 🔥 momento forte em 22:00 (nota 4.8) -> renderizando
+[23:16] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 578 MB
+[23:47] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 590 MB
+   ✔ corte pronto: live20261118_181545davyjones_009 (nota 5.6) -> abra o painel para aprovar
+[24:17] sem momento forte (maior nota 0.2, limiar 3.0) | gravação: 602 MB
+[24:48] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 615 MB
+[25:18] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 627 MB
+[25:48] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 639 MB
+[26:19] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 652 MB
+   ✔ corte pronto: live20261118_181545davyjones_010 (nota 4.3) -> abra o painel para aprovar
+[26:49] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 664 MB
+[27:19] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[27:50] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 688 MB
+[28:20] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_011 (nota 3.1) -> abra o painel para aprovar
+[28:51] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 713 MB
+[29:21] sem momento forte (maior nota 1.2, limiar 3.0) | gravação: 726 MB
+[29:51] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[30:22] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 750 MB
+   ✔ corte pronto: live20261118_181545davyjones_012 (nota 4.8) -> abra o painel para aprovar
+[30:52] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 762 MB
+[31:22] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 775 MB
+[31:53] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[32:23] ⭐ corte garantido (melhor momento da janela) em 31:03 (nota 4.3) -> renderizando
+[32:53] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 812 MB
+[33:24] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[33:54] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[34:25] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_013 (nota 4.3) -> abra o painel para aprovar
+[34:55] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[35:25] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 873 MB
+[35:55] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[36:26] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 898 MB
+[36:56] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 909 MB
+[37:26] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[37:57] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 934 MB
+[38:27] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 947 MB
+[38:57] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 960 MB
+[39:28] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[39:58] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 984 MB
+[40:29] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[40:59] sem momento forte (maior nota 1.2, limiar 3.0) | gravação: 1008 MB
+[41:29] ⭐ corte garantido (melhor momento da janela) em 37:00 (nota 7.1) -> renderizando
+[42:00] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[42:30] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 1046 MB
+[43:00] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 1058 MB
+   ✔ corte pronto: live20261118_181545davyjones_014 (nota 7.1) -> abra o painel para aprovar
+[43:30] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[44:01] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 1082 MB
+[44:31] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 1094 MB
+[45:01] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 1107 MB
+[45:31] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 1119 MB
+[46:02] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 1131 MB
+[46:32] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 1144 MB
+[47:02] sem momento forte (maior nota 1.4, limiar 3.0) | gravação: 1156 MB
+[47:32] ⭐ corte garantido (melhor momento da janela) em 43:07 (nota 4.3) -> renderizando
+[48:02] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 1180 MB
+[48:33] sem momento forte (maior nota 1.5, limiar 3.0) | gravação: 1192 MB
+[49:03] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 1205 MB
+   ✔ corte pronto: live20261118_181545davyjones_015 (nota 4.3) -> abra o painel para aprovar
+[49:34] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 1217 MB
+[50:04] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 1230 MB
+[50:34] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[51:04] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[51:34] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 1267 MB
+[52:05] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[52:35] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[53:05] sem momento forte (maior nota 0.2, limiar 3.0) | gravação: 1304 MB
+[53:35] ⭐ corte garantido (melhor momento da janela) em 51:46 (nota 4.8) -> renderizando
+[54:05] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[54:36] sem momento forte (maior nota 0.1, limiar 3.0) | gravação: 1339 MB
+   ✔ corte pronto: live20261118_181545davyjones_016 (nota 4.8) -> abra o painel para aprovar
+[55:06] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 1352 MB
+[55:36] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 1364 MB
+[56:06] sem momento forte (maior nota -1.4, limiar 3.0) | gravação: 1376 MB
+[56:36] sem momento forte (maior nota -0.6, limiar 3.0) | gravação: 1388 MB
+[57:07] sem momento forte (maior nota -1.4, limiar 3.0) | gravação: 1401 MB
+[57:37] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 1413 MB
+[58:07] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 1425 MB
+[58:37] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[59:07] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[59:37] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[60:08] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 1474 MB
+[60:38] sem momento forte (maior nota 1.4, limiar 3.0) | gravação: 1486 MB
+[61:08] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 1499 MB
+[61:38] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 1510 MB
+[62:08] ⭐ corte garantido (melhor momento da janela) em 61:37 (nota 4.9) -> renderizando
+[62:39] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[63:09] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 1548 MB
+[63:39] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 1560 MB
+[64:10] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 1573 MB
+   ✔ corte pronto: live20261118_181545davyjones_017 (nota 4.9) -> abra o painel para aprovar
+[64:40] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[65:10] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 1596 MB
+[65:40] sem momento forte (maior nota 3.0, limiar 3.0) | gravação: 1609 MB
+[66:10] sem momento forte (maior nota 2.2, limiar 3.0) | gravação: 1621 MB
+[66:40] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 1634 MB
+[67:11] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 1646 MB
+[67:41] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 1658 MB
+[68:11] sem momento forte (maior nota -0.0, limiar 3.0) | gravação: 1671 MB
+[68:41] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 1682 MB
+[69:11] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 1694 MB
+[69:41] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 1707 MB
+[70:12] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 1720 MB
+[70:42] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 1731 MB
+[71:12] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 1744 MB
+[71:42] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 1756 MB
+[72:12] ⭐ corte garantido (melhor momento da janela) em 64:01 (nota 3.5) -> renderizando
+[72:43] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 1780 MB
+[73:13] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[73:44] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[74:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[74:44] ⭐ corte garantido (melhor momento da janela) em 72:27 (nota 3.6) -> renderizando
+   ✔ corte pronto: live20261118_181545davyjones_018 (nota 3.5) -> abra o painel para aprovar
+[75:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[75:45] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[76:15] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 1866 MB
+   ✔ corte pronto: live20261118_181545davyjones_019 (nota 3.6) -> abra o painel para aprovar
+[76:45] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 1879 MB
+[77:15] 🔥 momento forte em 76:48 (nota 4.4) -> renderizando
+[77:45] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[78:16] sem momento forte (maior nota 3.0, limiar 3.0) | gravação: 1916 MB
+[78:47] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 1928 MB
+[79:17] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 1941 MB
+   ✔ corte pronto: live20261118_181545davyjones_020 (nota 4.4) -> abra o painel para aprovar
+[79:47] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 1952 MB
+[80:17] sem momento forte (maior nota -0.2, limiar 3.0) | gravação: 1965 MB
+[80:47] 🔥 momento forte em 80:20 (nota 6.8) -> renderizando
+[81:18] sem momento forte (maior nota 3.0, limiar 3.0) | gravação: 1989 MB
+[81:48] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 2002 MB
+   ✔ corte pronto: live20261118_181545davyjones_021 (nota 6.8) -> abra o painel para aprovar
+[82:18] 🔥 momento forte em 81:39 (nota 5.0) -> renderizando
+[82:48] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[83:18] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_022 (nota 5.0) -> abra o painel para aprovar
+[83:49] 🔥 momento forte em 83:15 (nota 5.1) -> renderizando
+[84:19] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[84:50] 🔥 momento forte em 84:19 (nota 4.0) -> renderizando
+[85:20] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[85:50] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_023 (nota 5.1) -> abra o painel para aprovar
+[86:21] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[86:51] sem momento forte (maior nota 1.5, limiar 3.0) | gravação: 2123 MB
+[87:21] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[87:52] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 2148 MB
+   ✔ corte pronto: live20261118_181545davyjones_024 (nota 4.0) -> abra o painel para aprovar
+[88:22] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 2160 MB
+[88:54] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[89:24] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[89:55] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 2197 MB
+[90:25] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 2210 MB
+[90:56] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[91:26] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 2234 MB
+[91:57] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 2247 MB
+[92:27] sem momento forte (maior nota 0.5, limiar 3.0) | gravação: 2259 MB
+[92:57] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 2272 MB
+[93:27] sem momento forte (maior nota -0.5, limiar 3.0) | gravação: 2283 MB
+[93:58] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 2296 MB
+[94:28] sem momento forte (maior nota 1.2, limiar 3.0) | gravação: 2308 MB
+[94:58] ⭐ corte garantido (melhor momento da janela) em 85:21 (nota 12.2) -> renderizando
+[95:29] sem momento forte (maior nota 0.1, limiar 3.0) | gravação: 2334 MB
+[96:00] ⭐ corte garantido (melhor momento da janela) em 90:10 (nota 4.6) -> renderizando
+[96:30] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_025 (nota 12.2) -> abra o painel para aprovar
+[97:00] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 2370 MB
+[97:31] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 2383 MB
+[98:01] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 2395 MB
+   ✔ corte pronto: live20261118_181545davyjones_026 (nota 4.6) -> abra o painel para aprovar
+[98:31] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[99:02] sem momento forte (maior nota 1.5, limiar 3.0) | gravação: 2420 MB
+[99:32] sem momento forte (maior nota 0.3, limiar 3.0) | gravação: 2432 MB
+[100:02] sem momento forte (maior nota 0.3, limiar 3.0) | gravação: 2443 MB
+[100:32] ⭐ corte garantido (melhor momento da janela) em 97:47 (nota 6.2) -> renderizando
+[101:02] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[101:33] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[102:03] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 2492 MB
+[102:34] sem momento forte (maior nota -0.9, limiar 3.0) | gravação: 2506 MB
+   ✔ corte pronto: live20261118_181545davyjones_027 (nota 6.2) -> abra o painel para aprovar
+[103:04] sem momento forte (maior nota -1.5, limiar 3.0) | gravação: 2518 MB
+[103:34] sem momento forte (maior nota 3.0, limiar 3.0) | gravação: 2529 MB
+[104:04] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[104:34] sem momento forte (maior nota 0.4, limiar 3.0) | gravação: 2554 MB
+[105:04] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[105:35] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[106:05] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 2591 MB
+[106:35] sem momento forte (maior nota 0.2, limiar 3.0) | gravação: 2603 MB
+[107:05] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[107:35] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[108:05] sem momento forte (maior nota -1.0, limiar 3.0) | gravação: 2639 MB
+[108:36] ⭐ corte garantido (melhor momento da janela) em 105:02 (nota 4.3) -> renderizando
+[109:06] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 2664 MB
+[109:36] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_028 (nota 4.3) -> abra o painel para aprovar
+[110:06] sem momento forte (maior nota 0.5, limiar 3.0) | gravação: 2689 MB
+[110:36] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 2702 MB
+[111:07] sem momento forte (maior nota -0.9, limiar 3.0) | gravação: 2713 MB
+[111:37] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 2725 MB
+[112:07] sem momento forte (maior nota 0.1, limiar 3.0) | gravação: 2738 MB
+[112:37] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 2750 MB
+[113:07] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 2762 MB
+[113:38] sem momento forte (maior nota -0.3, limiar 3.0) | gravação: 2775 MB
+[114:08] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[114:38] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 2799 MB
+[115:08] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 2811 MB
+[115:38] ⭐ corte garantido (melhor momento da janela) em 106:40 (nota 4.3) -> renderizando
+[116:09] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 2836 MB
+[116:39] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 2848 MB
+   ✔ corte pronto: live20261118_181545davyjones_029 (nota 4.3) -> abra o painel para aprovar
+[117:09] ⭐ corte garantido (melhor momento da janela) em 116:29 (nota 3.9) -> renderizando
+[117:39] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[118:09] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 2884 MB
+   ✔ corte pronto: live20261118_181545davyjones_030 (nota 3.9) -> abra o painel para aprovar
+[118:39] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 2897 MB
+[119:10] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[119:40] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 2922 MB
+[120:10] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[120:40] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 2946 MB
+[121:10] sem momento forte (maior nota 1.7, limiar 3.0) | gravação: 2958 MB
+[121:40] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[122:11] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 2982 MB
+[122:41] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[123:11] sem momento forte (maior nota 1.2, limiar 3.0) | gravação: 3008 MB
+[123:41] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 3019 MB
+[124:11] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[124:41] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[125:12] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 3056 MB
+[125:42] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[126:12] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[126:42] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 3093 MB
+[127:12] ⭐ corte garantido (melhor momento da janela) em 123:23 (nota 6.1) -> renderizando
+[127:43] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[128:13] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 3130 MB
+[128:43] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 3142 MB
+   ✔ corte pronto: live20261118_181545davyjones_031 (nota 6.1) -> abra o painel para aprovar
+[129:13] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[129:44] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[130:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[130:44] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 3191 MB
+[131:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[131:44] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 3216 MB
+[132:15] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[132:45] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[133:15] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[133:45] ⭐ corte garantido (melhor momento da janela) em 125:34 (nota 5.1) -> renderizando
+[134:15] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[134:46] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[135:16] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 3301 MB
+   ✔ corte pronto: live20261118_181545davyjones_032 (nota 5.1) -> abra o painel para aprovar
+[135:46] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 3314 MB
+[136:16] ⭐ corte garantido (melhor momento da janela) em 129:33 (nota 4.4) -> renderizando
+[136:47] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 3338 MB
+[137:17] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 3350 MB
+   ✔ corte pronto: live20261118_181545davyjones_033 (nota 4.4) -> abra o painel para aprovar
+[137:47] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 3362 MB
+[138:17] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 3375 MB
+[138:47] sem momento forte (maior nota 1.5, limiar 3.0) | gravação: 3387 MB
+[139:18] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 3398 MB
+[139:48] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 3412 MB
+[140:18] ⭐ corte garantido (melhor momento da janela) em 131:50 (nota 4.4) -> renderizando
+[140:48] sem momento forte (maior nota 1.4, limiar 3.0) | gravação: 3437 MB
+[141:19] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 3449 MB
+[141:50] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 3461 MB
+   ✔ corte pronto: live20261118_181545davyjones_034 (nota 4.4) -> abra o painel para aprovar
+[142:20] ⭐ corte garantido (melhor momento da janela) em 134:23 (nota 3.5) -> renderizando
+[142:50] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 3486 MB
+[143:20] sem momento forte (maior nota 1.5, limiar 3.0) | gravação: 3498 MB
+[143:50] sem momento forte (maior nota 1.7, limiar 3.0) | gravação: 3510 MB
+   ✔ corte pronto: live20261118_181545davyjones_035 (nota 3.5) -> abra o painel para aprovar
+[144:21] sem momento forte (maior nota 0.5, limiar 3.0) | gravação: 3522 MB
+[144:51] ⭐ corte garantido (melhor momento da janela) em 138:56 (nota 3.5) -> renderizando
+[145:21] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 3546 MB
+[145:51] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_036 (nota 3.5) -> abra o painel para aprovar
+[146:21] sem momento forte (maior nota 0.4, limiar 3.0) | gravação: 3570 MB
+[146:52] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 3584 MB
+[147:22] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 3596 MB
+[147:52] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 3608 MB
+[148:22] 🔥 momento forte em 147:49 (nota 6.6) -> renderizando
+[148:53] sem momento forte (maior nota 0.8, limiar 3.0) | gravação: 3632 MB
+[149:23] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_037 (nota 6.6) -> abra o painel para aprovar
+[149:53] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 3656 MB
+[150:23] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 3669 MB
+[150:53] 🔥 momento forte em 150:15 (nota 4.9) -> renderizando
+[151:24] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 3693 MB
+[151:54] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[152:24] sem momento forte (maior nota 0.4, limiar 3.0) | gravação: 3718 MB
+[152:55] sem momento forte (maior nota 1.7, limiar 3.0) | gravação: 3730 MB
+   ✔ corte pronto: live20261118_181545davyjones_038 (nota 4.9) -> abra o painel para aprovar
+[153:25] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[153:55] sem momento forte (maior nota -1.2, limiar 3.0) | gravação: 3755 MB
+[154:25] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[154:55] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[155:26] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 3792 MB
+[155:56] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[156:26] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 3816 MB
+[156:56] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 3828 MB
+[157:26] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[157:56] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[158:27] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[158:57] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 3878 MB
+[159:27] sem momento forte (maior nota 1.5, limiar 3.0) | gravação: 3889 MB
+[159:57] 🔥 momento forte em 159:14 (nota 4.2) -> renderizando
+[160:27] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 3914 MB
+[160:57] sem momento forte (maior nota 0.4, limiar 3.0) | gravação: 3926 MB
+   ✔ corte pronto: live20261118_181545davyjones_039 (nota 4.2) -> abra o painel para aprovar
+[161:28] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[161:58] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 3951 MB
+[162:28] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 3963 MB
+[162:58] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[163:28] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[163:59] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[164:29] sem momento forte (maior nota 1.7, limiar 3.0) | gravação: 4012 MB
+[164:59] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[165:29] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[165:59] sem momento forte (maior nota 2.0, limiar 3.0) | gravação: 4049 MB
+[166:29] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 4060 MB
+[167:00] 🔥 momento forte em 166:36 (nota 5.0) -> renderizando
+[167:30] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[168:00] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 4097 MB
+[168:30] 🔥 momento forte em 167:59 (nota 3.4) -> renderizando
+   ✔ corte pronto: live20261118_181545davyjones_040 (nota 5.0) -> abra o painel para aprovar
+[169:00] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 4122 MB
+[169:30] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_041 (nota 3.4) -> abra o painel para aprovar
+[170:01] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 4146 MB
+[170:31] sem momento forte (maior nota -1.0, limiar 3.0) | gravação: 4159 MB
+[171:01] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[171:31] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[172:01] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[172:31] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[173:02] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 4220 MB
+[173:32] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 4232 MB
+[174:02] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[174:32] sem momento forte (maior nota 1.4, limiar 3.0) | gravação: 4256 MB
+[175:02] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 4268 MB
+[175:32] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[176:03] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 4293 MB
+[176:33] sem momento forte (maior nota 1.2, limiar 3.0) | gravação: 4305 MB
+[177:03] sem momento forte (maior nota -1.1, limiar 3.0) | gravação: 4317 MB
+[177:33] sem momento forte (maior nota 0.1, limiar 3.0) | gravação: 4330 MB
+[178:03] sem momento forte (maior nota -1.0, limiar 3.0) | gravação: 4342 MB
+[178:33] ⭐ corte garantido (melhor momento da janela) em 170:33 (nota 4.1) -> renderizando
+[179:04] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[179:34] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_042 (nota 4.1) -> abra o painel para aprovar
+[180:04] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[180:34] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[181:05] ⭐ corte garantido (melhor momento da janela) em 180:10 (nota 4.9) -> renderizando
+[181:35] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[182:05] sem momento forte (maior nota 2.0, limiar 3.0) | gravação: 4440 MB
+   ✔ corte pronto: live20261118_181545davyjones_043 (nota 4.9) -> abra o painel para aprovar
+[182:35] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 4452 MB
+[183:06] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[183:36] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 4477 MB
+[184:06] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[184:36] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[185:06] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[185:36] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[186:07] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[186:37] 🔥 momento forte em 186:06 (nota 3.5) -> renderizando
+[187:07] sem momento forte (maior nota 0.6, limiar 3.0) | gravação: 4563 MB
+[187:37] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 4575 MB
+   ✔ corte pronto: live20261118_181545davyjones_044 (nota 3.5) -> abra o painel para aprovar
+[188:07] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[188:38] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 4599 MB
+[189:08] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[189:38] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 4624 MB
+[190:08] sem momento forte (maior nota 0.5, limiar 3.0) | gravação: 4636 MB
+[190:38] sem momento forte (maior nota 0.5, limiar 3.0) | gravação: 4648 MB
+[191:08] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 4660 MB
+[191:39] 🔥 momento forte em 191:12 (nota 4.0) -> renderizando
+[192:09] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[192:39] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[193:09] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 4710 MB
+   ✔ corte pronto: live20261118_181545davyjones_045 (nota 4.0) -> abra o painel para aprovar
+[193:40] 🔥 momento forte em 193:17 (nota 4.1) -> renderizando
+[194:10] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[194:40] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 4746 MB
+   ✔ corte pronto: live20261118_181545davyjones_046 (nota 4.1) -> abra o painel para aprovar
+[195:10] 🔥 momento forte em 194:25 (nota 3.8) -> renderizando
+[195:40] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 4770 MB
+[196:11] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_047 (nota 3.8) -> abra o painel para aprovar
+[196:41] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[197:11] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[197:41] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[198:11] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[198:41] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[199:11] sem momento forte (maior nota 2.0, limiar 3.0) | gravação: 4855 MB
+[199:42] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 4868 MB
+[200:12] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 4880 MB
+[200:42] sem momento forte (maior nota 0.9, limiar 3.0) | gravação: 4892 MB
+[201:12] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 4904 MB
+[201:42] 🔥 momento forte em 201:09 (nota 6.2) -> renderizando
+[202:13] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 4928 MB
+[202:43] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_048 (nota 6.2) -> abra o painel para aprovar
+[203:13] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[203:43] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 4964 MB
+[204:13] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[204:43] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[205:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[205:44] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[206:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[206:44] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[207:14] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[207:44] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 5061 MB
+[208:15] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[208:45] sem momento forte (maior nota 1.8, limiar 3.0) | gravação: 5085 MB
+[209:15] 🔥 momento forte em 208:26 (nota 3.3) -> renderizando
+[209:45] sem momento forte (maior nota 2.0, limiar 3.0) | gravação: 5110 MB
+[210:15] sem momento forte (maior nota 2.3, limiar 3.0) | gravação: 5122 MB
+   ✔ corte pronto: live20261118_181545davyjones_049 (nota 3.3) -> abra o painel para aprovar
+[210:45] 🔥 momento forte em 210:18 (nota 3.2) -> renderizando
+[211:16] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[211:46] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[212:16] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_050 (nota 3.2) -> abra o painel para aprovar
+[212:46] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 5183 MB
+[213:17] sem momento forte (maior nota 1.9, limiar 3.0) | gravação: 5196 MB
+[213:47] sem momento forte (maior nota 2.0, limiar 3.0) | gravação: 5208 MB
+[214:17] sem momento forte (maior nota 1.6, limiar 3.0) | gravação: 5220 MB
+[214:47] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 5233 MB
+[215:17] sem momento forte (maior nota 0.3, limiar 3.0) | gravação: 5244 MB
+[215:48] sem momento forte (maior nota 0.7, limiar 3.0) | gravação: 5257 MB
+[216:18] sem momento forte (maior nota -0.0, limiar 3.0) | gravação: 5269 MB
+[216:48] sem momento forte (maior nota 2.6, limiar 3.0) | gravação: 5282 MB
+[217:18] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[217:48] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[218:18] sem momento forte (maior nota 2.8, limiar 3.0) | gravação: 5318 MB
+[218:48] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 5330 MB
+[219:19] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[219:49] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[220:19] 🔥 momento forte em 219:57 (nota 3.6) -> renderizando
+[220:49] sem momento forte (maior nota 3.0, limiar 3.0) | gravação: 5379 MB
+[221:19] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_051 (nota 3.6) -> abra o painel para aprovar
+[221:49] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[222:20] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[222:50] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 5428 MB
+[223:20] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[223:50] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[224:20] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[224:51] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[225:21] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[225:51] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[226:21] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[226:51] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[227:21] sem momento forte (maior nota 2.1, limiar 3.0) | gravação: 5538 MB
+[227:52] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 5550 MB
+[228:22] sem momento forte (maior nota 0.3, limiar 3.0) | gravação: 5562 MB
+[228:52] 🔥 momento forte em 228:22 (nota 3.5) -> renderizando
+[229:22] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[229:52] sem momento forte (maior nota 1.1, limiar 3.0) | gravação: 5598 MB
+   ✔ corte pronto: live20261118_181545davyjones_052 (nota 3.5) -> abra o painel para aprovar
+[230:22] 🔥 momento forte em 230:00 (nota 3.1) -> renderizando
+[230:53] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 5623 MB
+[231:23] sem momento forte (maior nota 1.0, limiar 3.0) | gravação: 5635 MB
+   ✔ corte pronto: live20261118_181545davyjones_053 (nota 3.1) -> abra o painel para aprovar
+[231:53] 🔥 momento forte em 231:18 (nota 4.5) -> renderizando
+[232:23] sem momento forte (maior nota 2.9, limiar 3.0) | gravação: 5659 MB
+[232:53] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+   ✔ corte pronto: live20261118_181545davyjones_054 (nota 4.5) -> abra o painel para aprovar
+[233:23] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 5684 MB
+[233:54] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 5696 MB
+[234:24] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 5708 MB
+[234:54] momento forte ignorado (perto de outro corte ou limite por hora atingido)
+[235:24] sem momento forte (maior nota 2.5, limiar 3.0) | gravação: 5733 MB
+[235:55] sem momento forte (maior nota 2.4, limiar 3.0) | gravação: 5745 MB
+[236:25] sem momento forte (maior nota 2.2, limiar 3.0) | gravação: 5758 MB
+[236:55] sem momento forte (maior nota 1.3, limiar 3.0) | gravação: 5769 MB
+[237:25] sem momento forte (maior nota 2.7, limiar 3.0) | gravação: 5770 MB
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 54 corte(s) gerado(s). Abra o painel:  streamlit run painel.py

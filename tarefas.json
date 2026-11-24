@@ -1,0 +1,232 @@
+[
+ {
+  "id": "20261118_074216_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 17196,
+  "criado_proc": 1794998536.4822688,
+  "inicio": 1794998536.4920282,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_074216_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_074626_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 4476,
+  "criado_proc": 1794998786.45708,
+  "inicio": 1794998786.4666107,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_074626_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_074747_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 17288,
+  "criado_proc": 1794998867.436922,
+  "inicio": 1794998867.4437823,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_074747_torre.log",
+  "parando": true
+ },
+ {
+  "id": "20261118_074920_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 17404,
+  "criado_proc": 1794998960.7982652,
+  "inicio": 1794998960.806137,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_074920_torre.log",
+  "parando": true
+ },
+ {
+  "id": "20261118_080450_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 14572,
+  "criado_proc": 1794999890.2312915,
+  "inicio": 1794999890.2373939,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_080450_torre.log",
+  "parando": true
+ },
+ {
+  "id": "20261118_082205_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 18488,
+  "criado_proc": 1795000925.2460604,
+  "inicio": 1795000925.254957,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_082205_torre.log",
+  "parando": true
+ },
+ {
+  "id": "20261118_082226_conectar",
+  "tipo": "conectar",
+  "titulo": "Teste de chat: twitch",
+  "pid": 9564,
+  "criado_proc": 1795000946.868795,
+  "inicio": 1795000946.8810983,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_082226_conectar.log",
+  "parando": true
+ },
+ {
+  "id": "20261118_083331_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 7292,
+  "criado_proc": 1795001611.3941092,
+  "inicio": 1795001611.4042115,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_083331_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_083937_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 15988,
+  "criado_proc": 1795001977.007192,
+  "inicio": 1795001977.022173,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_083937_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_084654_ao_vivo",
+  "tipo": "ao_vivo",
+  "titulo": "Ao vivo: Alanzoka",
+  "pid": 18292,
+  "criado_proc": 1795002414.0221908,
+  "inicio": 1795002414.0441332,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_084654_ao_vivo.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_130001_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 11068,
+  "criado_proc": 1795017601.5423267,
+  "inicio": 1795017601.556016,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_130001_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_130149_ao_vivo",
+  "tipo": "ao_vivo",
+  "titulo": "Ao vivo: Alanzoka",
+  "pid": 19008,
+  "criado_proc": 1795017709.7903936,
+  "inicio": 1795017709.7996016,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_130149_ao_vivo.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_130707_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 19824,
+  "criado_proc": 1795018027.390601,
+  "inicio": 1795018027.4017467,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_130707_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_133041_ao_vivo",
+  "tipo": "ao_vivo",
+  "titulo": "Ao vivo: Alanzoka",
+  "pid": 11464,
+  "criado_proc": 1795019441.9500043,
+  "inicio": 1795019441.9592345,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_133041_ao_vivo.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_140152_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 12344,
+  "criado_proc": 1795021312.3080647,
+  "inicio": 1795021312.3148668,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_140152_torre.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_140251_ao_vivo",
+  "tipo": "ao_vivo",
+  "titulo": "Ao vivo: Alanzoka",
+  "pid": 14424,
+  "criado_proc": 1795021371.074621,
+  "inicio": 1795021371.080042,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_140251_ao_vivo.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_180948_conectar",
+  "tipo": "conectar",
+  "titulo": "Teste de gravação",
+  "pid": 22044,
+  "criado_proc": 1795036188.8826685,
+  "inicio": 1795036188.8980641,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_180948_conectar.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_181540_torre",
+  "tipo": "torre",
+  "titulo": "Torre de Controle",
+  "pid": 20956,
+  "criado_proc": 1795036540.1676195,
+  "inicio": 1795036540.176377,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_181540_torre.log",
+  "parando": true
+ },
+ {
+  "id": "20261118_190406_postar",
+  "tipo": "postar",
+  "titulo": "Postar no Instagram",
+  "pid": 4388,
+  "criado_proc": 1795039446.1807437,
+  "inicio": 1795039446.190049,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_190406_postar.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_190409_postar",
+  "tipo": "postar",
+  "titulo": "Postar no Instagram",
+  "pid": 21384,
+  "criado_proc": 1795039449.2042015,
+  "inicio": 1795039449.2149901,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_190409_postar.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_191653_postar",
+  "tipo": "postar",
+  "titulo": "Postar no Instagram",
+  "pid": 13992,
+  "criado_proc": 1795040213.2459664,
+  "inicio": 1795040213.256588,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_191653_postar.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_192606_postar",
+  "tipo": "postar",
+  "titulo": "Postar no Instagram",
+  "pid": 19928,
+  "criado_proc": 1795040766.9443488,
+  "inicio": 1795040766.950891,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_192606_postar.log",
+  "parando": false
+ },
+ {
+  "id": "20261118_192925_postar",
+  "tipo": "postar",
+  "titulo": "Postar no YouTube",
+  "pid": 5704,
+  "criado_proc": 1795040965.5736828,
+  "inicio": 1795040965.5865881,
+  "log": "C:\\Projetos\\clipador\\logs\\20261118_192925_postar.log",
+  "parando": false
+ }
+]

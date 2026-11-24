@@ -1,0 +1,413 @@
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+WARNING: [kick:live] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+[in#0 @ 00000182cd1c8fc0] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvICiOwRjzm0zl0O8p6iiy_om8I9edPgsrvgAJOKBbmmLgxvVUwKOMB3LpCd6uOsmooP3Fuys8V830R4KxIX6jEjhO4CdQMYpBLxp3RJ1iLqjMun5gYMmYzDRzOWWDdwHsu0K0De76OmmpY9oZl12T79DopbZL_iE27tC3_0gkQOQdkQgU3ZL7PxdCCoGRYXLO-J575wfp1IMouevki3pJpFLiFl1TshhV1bVjZxW7enPF6tl6jt3yF66THSFqmfT3G3HDZUEsBR1y_g9OEHe9wjY7XtKKVDW6K5AJ4rE_wApEg2StJsTOhJUuPYJPfoWyZzGhGiFUqcYIet6b2ypKTrr3B6cWKcpnbFTnNrt-2ZEFdv_1uHeOHhZqnuevlO3hNszOmwlJH3wqfN1LUCSfCdV_U5e--1iBffsjvTLIYFLLGC_njRAD-R_Dj2tTAfe5kRwf-EVT77XE8HleISncYiu3UvckBnEv11wb9ljOAmq6SkPxoM4FhrmI0SEkT-a0muIAEqCXVzLWVhc3QtMjDKEA.ts?dna=CmaBRMKh2X5xur9sbcXOzvPhGgEN99OmFFy7i3mLUeYyt77AVKgFNq6gU-V7jDjpJc2nqg6tgaS1zsDBd3fr3M_w_fyx1EEKRV5yB4Hgr4yvQaNVfhuzJx6h6uVKwCYIn_8xAPhA_BsaDIMUIHXiJUM37kUDUyABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 00000182cd1c8d80] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CqwGjneOWYy3MRDwfAC56FbYI9hoqBkC2CZhsOXqE5LESY2ZijL-xgEflFPFIiUsuZf6Z7oDQj29-r-ObBg0XzM4aVgEgeX1LkuQ-pM6wPrD73CFr1irp8AWJGXTUOWUj1kh1ldw1-OTjR1AtbZPOA3j-NwIpxfDXYR9JjWNVeU0Pj3WrokubVG9vAYuRaOe4pgq34ge0yViZLLtlasIyz8JmWxxZsNnsgjTQ0TQEonUtEOtetKzeAJOFY-a293L6ssBBCTMXHV9_6HIV18vtpIUuccvU91SmRIW0oU6zwmtAgX-K3R4guhETotlrgWwxd3FhDWA30BZvTBb0FZQU9T3w6WcuSmsleGAaKtQ5tuydOuZ0X6s4OV06PplmNt-9K1k4tFKqGNEXwNWv3ifSvbWE39Df5IIl3udRGylknS4y6tCfzz8y9zEQSX0DOn6sNKtqu_rZTUj7qg2iP1RJyQDR8AZUkDkpuYE87EwcdHh2-lGR2DwTWiIy9lWl3EmmJCHykfjTPj_5iSzYm__5snodatAfYPtWz8a-zrsSzU0HUZ1gW8Uc99d-dx_ExBR0QYfFL1UdPo3oLzhP930qkZ59wExZBIGhvVf9dpWJGy50N9_LVZnCB-VVX7AsOdFxZvBMbm2lfRgiswNPLlrqIiVyNsaeqf6CCD26a8rj4om0l4asG6tMi2D_nfghPkO7AO0_CMQ97AP-hCxnCoqhQG707aL8gSH9OykZHeW1_97GtJ78lY8mXhzDH-nzvOlJp6VGhfSeEP-IuphFhOQ6c66_FRqpbmoAdp2tqWW8enEtEqEd9EGRtxWV5aTAbsMcZ1fsZ0gydPMw3JXzjyl5AOMluwgqL5tug1hUPGj-iRptYK-kYFspHlGzd2GV4VaAWLkCeDpkDnGwyY-Rng23xv30W9Ji1fgNsVBcb8xP9MtAKSmnxteQ2jizaYTH7eUQQQIHshoA0Swnf1DpyHcRyzCulVHT4gg1o_lXRF1Rj19kIf2xQ5kwl55i-7SmxCFMJHiYB1sViJkg2YYZng1-TWoBlgqUx1H7UPF1ggkmpOx9QKNtstnakIz3O_QnmMaDGuPBOTD4DAW6qSLjiABKgl1cy1lYXN0LTIwyhA.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_083335_15120.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+[info] Available formats for 138556304:
+ID      EXT RESOLUTION FPS |   TBR PROTO | VCODEC      ACODEC
+----------------------------------------------------------------
+160p    mp4 284x160     30 |  230k m3u8  | avc1.4D401F mp4a.40.2
+360p    mp4 640x360     30 |  630k m3u8  | avc1.4D401F mp4a.40.2
+480p    mp4 852x480     30 | 1493k m3u8  | avc1.4D401F mp4a.40.2
+720p60  mp4 1280x720    60 | 3488k m3u8  | avc1.4D401F mp4a.40.2
+1440p60 mp4 2560x1440   60 | 8521k m3u8  | avc1.640033 mp4a.40.2
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+[in#0 @ 0000027ad8a67040] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvICChDXJb-dPGl_ziwVI97oYesliuCr0faj9bqnmTobzs4wwt61gS5-uIz0LzA53fTGeWfb-kecVVu9sAZ66EGoHhpLJK_20GqYg_27Fvb1E2jCSxdzDEjNzg20Qsa-l98r5xacRtbnkG-7ONlcYMp_1jMwMLzf1kHI7PNsoCK8S1ne1EYwuErXnq17MboyKuiUQDbAmsB2JokziPt8_d_3qgomyqCmxhJPBnjBEnbQcOpisLxhOdMNw48r0ntXtAJhzWDXxrwJ63GxGNwwwFCSHRjoOOdfh6MSzZwqZxH739mtfGFRfPCgyRlPcHDBJYwnlxdKl56w1MDJwZ_-6OOaJ2frDBjCuadEQ-Phu8HFDStZInfKTQQQQB71DMdpzoGsVbYKNN5Ibux85d9d_L4j85cJaOcTDoaxvkhGFHhN1KnfR9t7WPv3CqocMG2Zirq3y5nq25DPjWz5NVxRu0GB8D-HLy6yj0WQS5sIQYe7OjUmcRoMKdnoryOQNEligWq7IAEqCXVzLWVhc3QtMjDKEA.ts?dna=CmaZLXvIfO2CdWLiamsVmsUKiOsL4RpZn7KzJlqqM5i_HpFRSPAF-S5HbSshVRW3SFApWs4rmA_Xv3sE926_ycZ48MVYPg-neacNWakOyKno-wv9zsibXkFWYNa3uMNnqoUuDJ0YAVsaDCounTwx3hkJSDhVWyABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 0000027ad8a66ec0] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CqwG0VVQopuBDziUsryzUxc5hzOY0VI3vNa0ByneeZZ87VzXfC-Ee76_k269MfrTWpyQMIrOXvpL-RVOSrlx3qg0SQ3upuoVSqsKr_mS3HTfCS1gWix4dH8usbi8XHixYhYrXqwfJURw1pUjBFlDMdQxxPSsTCfmmcpxZWq6IbT7Ijs2_Hx9ymeagliupOnUFhteJeWd66xZUUMHQeS4I7_KSmbird2c-nu5hGf5WNiFz9Bt2SpNJmWqJtfThzfvdJX43xv73v8zztEZrh-Z7PiFyFqOJsIQY6Y58ghXjXl5gcdRclCGhSlhkSVNY9bLu13spH6MnxnIFWNjm0bb4I0G5GI1etDeBQ17UYWLbLewNUh2bAbj-wK0dRo-Zn7O6aeUxKLqzEZiDLhhGbZIg-A0CJsxaA8aESppAbwnMvSvCqaOfEOMeM1_nyJHduMth4l451_f6ltok4BvXs2XKiCizcRAHsZr2Nuwm3Nnr7otn5G32dAedymXm2zW1SjG0Dz6wtuL1OJGKq5bV0yJ1T8L5xDcXG6zwQfAHb8YYnDf5x-LCr1umMaEnu7s8YdWSQJshxxwxeawJgUwft_-CqD79l1n3gfQpEPoRwMHQxaKxjonOelfJXefZMAwp04B86xV0uS-6_KaWmDY7haG-VFytkYb8zA13-pOYwWdoHy-sYHCRm1HIqHyF4bCxWwbm3VPwqu1BNcf9Tt-giUx3beHkEsZzW3fJQm-BFukbapt8wvUdmyitN48xBGpitPpOqYaKFhUr2ZY0LUI766f-FzqK-5UDOOfRF1cqPk-F2JsXjHDMHM6piBg6jjgCXm6jAAUurk0WS7_KMbizOd1VPAduHYpeS3Fz79jhtv53ZmXlHPGppIT9a5fAXO_IM9hJv47jGsfgHXn5zkqD9_kKVQ28BMke9vLxig5i7Hc5nSUELvgCxudDM5cYRafw2JHVpF4Slt0AXZ3-qsEKnR7t5vLbUzY1kZ57s_HL0zEn55S3eTnqPNjtxUiIt043niSCqTfoliBKgFq0fB26NjwgM3ZfYJcoZNoVnjY1x_Hlxt5qjYw4a2AO7XVa_UPxG0aDEzuECBRvlcvhC-GdiABKgl1cy1lYXN0LTIwyhA.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_092823_8304.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+[in#0 @ 000002259d6a7a80] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvcCpXs5bkeiX-ppLt6oLbw9e7Zext3zZRgDHqxZTARt58fxwy-J6yYgIfhEz7nyyCloiBmlRZZamDP8SQIm0FLAxiZkViA_rhdF2wF5tcvt7MWdc2ZKZokiNW4NzKqVxDSJiQde2u8E2jNMQQPpW7sB2Wbwzno2ntjaji49i6W4jaBU4UMNG0ong9_-kK0kdZ8il5VE5-ds7WwTp09K7n4Bl8W1mvyHRhRWF8oNVEib3Ufl68TyZ0e_1uqjmV7pWsqySvfqIRSCfXjj25BvdB11OqsBYeB0PU2o-l-RpfugVeDIGGn4CwgZI4xlt_ox9ja3KDLi9_oCiB1JKxlQ80PzZ5sEBvdIESEupBX2GyanBLQEm1dNyds7y2HlDUpxPlJyjB1rJVQXTQT9kcgxn45TQ3lMAArI2OyiPItjUM71dN5Z6lKTFTbwL45ZQNLCKj3RhxRaxU7GpejFmIApU2X6cu_1dAf8G0FrluKaQWQzYdHnciMb1zNJGgzhMaNnE2XSXTRlCdAgASoJdXMtZWFzdC0yMMoQ.ts?dna=CmawEl_XHJvpBDvqssuI2oy39F8kIOiO98h7uBWEZPCtIGq0KBKqARq6PhUL3PRbxO7jzkTjOaRt4WaKmC1Bl2OenoU4LtV4GYXD4M9gUsTZJKTuRjX2dXcNUdAnDVbA-AIz9v1bzIoaDKuaxEOD-U2IcXQThSABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 000002259d6a7840] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrcGgRrYrKVR7p0GO68ZGNISBuUdgcS2umTe2ZbmM1RwbVe0oUe7k-TYW4KL_FJ3vpCsQfoyJUu876pLcoZ7l4MPwWLEUQEOvdSxyCGXXgZoQd-6FKRlUKUwxPz2LXr2WjoXPe39ltmLuVqIcusW-yvqqvF6SlatkvgIuUM4U4wzjiqC3V0z_ts5L-CglIufkX7bQgi6aMW-88Oy0PPK0129P9_3XwJcU4HWHRVUMnyrxAzlHFkgr27X3nb1zH-4YW4g2RLWGtAPBudrm0cE7qg3NyRDb9zIFxK23ul2j32-we-Jv7ryZLr-kdqRA3eCZCWKeV0AcGLphJLeioj58m8QVbkn2x5XamcObcCkAyEx8SXzBaJOeI0oHz6Cj2Hy1LrSdJPQse-vGNSlOin7nvrfWFuT6hJuo2qu7hlSFjkBj61d-hWpbMM_8pGcu_4lQ3FQ49tGmoaksK_QGR6xXsb6sEDxFkrUWm4YE4CfVBEQUxSkf4eo2R2ACZ2Q5hO90JysxVHTSoHHs-VO21FtEifGg1AsTA0FOZKA7N6TZeiVN7I5u18SGZlA0x8DKoJuPWuAA4yld4eRlXT5cLXsV9t-zUcph4UO9eWLNyyMlVVCOjlTyiZ92NPIZOj40tSPaOYdDdQyC72P3SeXM8IpN9I3EaQO0-Ocy4AhuzekLSfFf-hEGVpAsh8XC9rSvusbP_LvC87-pG4jrpCx7uAN5c-KXVeJevSGmKA0d40DR6ku3kV0kFLQfKynsFW9ukO50CNgjWzrmd8dc_ckzBOb6006uNtjkOL2fEsUPPPsIJ9P-P0zDjbY1EpIQXIrTXiQipvNr62pf8TUj9jEMvrwX5LKg1vlear1XaEq_-gIYd8Jt-t8JrtY7SSACSSP4sGb4LGnyRNSGfylz6BC8MG_S0s3SU2fu4n7TZQWUfOOVNV1Z_REPHHIICFmk_2u6w0gMc7Nn3vQVV4Q6Zm_KR_-5fV7KVG2Vc4v-RzDRR9UJC0dhM_SddvMRpl5RuEnzbvc_RyD2gf3N4t4DES-wXYZ5GYs1YON20-y9vamMqWHO3gngkOTlDdOg0Usy4j1Yd5TTzJYxVH2c5h5nxoMpQJuwWF0e32C_WWRIAEqCXVzLWVhc3QtMjDKEA.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_100247_6868.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+[in#0 @ 0000025ff5a399c0] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvQCkncJZNbpCtSFW2HFvZ6DAavVHVV-H1_WI8sUfcOx9bE4P8mexUomRYV7njSZL_QBhJfL4NgiClfFPfn4mJ2dE131h1VpfcPoh7YGXWMC2gVWdwFzlDMX0fXcC9KHqArvle-IVJ2J5OwWbvYIcGja-VlBc16OqLszmOodXXRxMnKHThgIwzm45OMYVh6AqLSPBJw38kYbGogYrG3d9m3Eosjnj0_VqWLTUtkTcbWk_S2OyG2p4HIOyssEaWTMM220PYI9kaeQyLQkhO5gkBS9VWOHaVBV7NaXYL-I4Rdc0I5t0KZXoq7wG1tK_lEeVd81KLuI_hqNYEr-gGjAAuSW6017YSYOZuUN3W2uE_4GP4EKodjZLI5tbSgv2Y5nkQ30v76wU2u8A6QJ5n1dZntmxd6GgrDlZy11lur_N8-tlbBXiXIPC-VAc1Ky8GOp3lByRaXQKl-_knwhpX5k5IffHfl5bFbJJtmV1Xld2W2EAVdcy2o3GgyfSbCj9P5RIXWkrPMgASoJdXMtZWFzdC0yMMoQ.ts?dna=CmYXIDeILCRYf2stSIfc544kC0j5MLFpCf3K8oiKgHfDGGuQ1jWW7c6oCNfwYK7U8-GtA_A2rlwbDMPVtHRvaBRUAC5fmNRZF1GscH-VtFet7fVSbyAD4VVsTHqRJsfXH7wXg_I3JbQaDDJulgR9gHpWbhMNCyABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 0000025ff5a39780] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/Cq0GkhkTkq47igjMQVCSndTVoLEnTqpfc5R8RvaBzcujxtjKvQq-YBAynN0j3vw6wZBjarmVk3judCnpzGXTZhcrW2FYwvo03cNMXsjzBqoNFwn1gfnj8QASt93M9iw1d5fpyKGsm7PculZAOW9pfzi0sIso9MBhweYi0OM3FSDa3mrVsUhgWbzX5I_8ns2IsEozGbTci8NxGhLQcp_wWIexL6qh8UsiISCp_YFrgvYLiNwcX69MKwzQ_1vihKxj8M_58rm-FSB1M5OLLwViAm9W7y9vRBC92CgJs9odGbWKITA5JDxU-z6c6BV5xq9vg_GVpicFTVMtW4ZzwKmvne7Ys_FYfSXZz-IDipHf1lGLBYWLeysbfryvzSbJjjWDABkyW9uI6A4SBz9bVO1t-3m5To6zFivpsA57TFbBHAf2grvR3JuulpVBtkan4z1bixByq4QxFiMY-zuipLFTdTszsmmICAX2DkxnMDN0M32CQOiZRGKNtjUYqyrcK4lGn_xbByBqxdDmQW3N0YOND-PiS967zbIlJTIFwxgL35UKTEoGvHCp7Jy8Xy7YcxIWBb8d1DeRgpCIIPpk5Ftm-4OKJoY0KOfOrx6ZRzSfum2QygIYxyD5G-PMVgyqnehxNwRToWnR7gDCM1Y68csuJSifc_wd2he85p5kiCKvPOMrdnGtYDpas9W5HQr0LWi8Ef98hUQcxztoo8j1kVif5qcbiIW96HFe8MgjT6H_xG8665mvCrrv8oKtElKfG9A6SPbAkehJHmHh4gifm1mq3NZMcWfTvO2hMq9VPZhOd0-G9Jgs43Qy0uXBYoKUqJL2ybxQl7ZWdVB8LDNdNl6PAkMAJh9M6qKONAV39nIBnuFwSVxKKyEpBUxrvz_qdC0LdU2chtqSE9YQPcARc1pFpE7RCeyXKJ-QsK0qHmBt2deypw8_KmFkpoXIhwAKWVcZt18a9SARYk9l4bC4WCATAj1jsCgunEIMDt01qHsDXm0KXeymAC-Pe-DjRfXOD8N8rIViZfRlQzsdwSuKg0-Ei8899czrFjdc-0S2Kt-_SBM_-uCptk6FBUPlMbkl08EwGgxbHvEEmiasYD9MWPcgASoJdXMtZWFzdC0yMMoQ.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_101255_6392.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+[info] Available formats for 138573572:
+ID      EXT RESOLUTION FPS |   TBR PROTO | VCODEC      ACODEC
+----------------------------------------------------------------
+160p    mp4 284x160     30 |  230k m3u8  | avc1.4D401F mp4a.40.2
+360p    mp4 640x360     30 |  630k m3u8  | avc1.4D401F mp4a.40.2
+480p    mp4 852x480     30 | 1494k m3u8  | avc1.4D401F mp4a.40.2
+720p60  mp4 1280x720    60 | 3489k m3u8  | avc1.4D401F mp4a.40.2
+1440p60 mp4 2560x1440   60 | 8668k m3u8  | avc1.640033 mp4a.40.2
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+[in#0 @ 000002437100aa80] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvcCglUSkwC06xThIlNQYD2MXxV_-90w6FwT7QB4ryzMJayVAg4ltEBqwn9L3p937tsiUo_me4cpnO7IS0d6x9gItcyjI77REsrbFL_AbjMd1a0OLmGXShjy5uiA7TOdLignZ2dmBYByj-XYgmt1VV5RwdFnNpLr17TCRhD4Zn1wU-Uz8oeIklAkg16YF18OGIYkn7Abw6438B5dGqMC7pn0-1qorQB69LLtMnz4okINC93iozcm8PUzdIFsFOANj_H2pOg87Z7fom7-oRQn2Hj9JLLQzt0dxsJZXZHHq5cLc4c9CoY2qVwVhhhhZf-TNOR1tvyL32GjrJxN0ZlS50HUz01BsclWJnmmUDYE4JmYRZ1NQvpvH_XSPJVd1J4z8RMf60c20dp8MAjGnmt7rPHIDJA5VbQoOySW_sYhrurWIJnGr1vaJR2sHvAoMU2cIktp_WHJfqxZnT1DbfBswStf3pzXJSUeoyrMovJdfRly-KLIMRo6t3YpGgwfAmmn5yKmrWyFgswgASoJdXMtZWFzdC0yMMoQ.ts?dna=CmZjGwCjx2dhJp2Bffy2Sto0ASuGdz03cKlOBBzk4pc6UwZDXpClUvrRoKUh86LNH46lux1FOV9Fuilu_C6xEpR6KyZCxSTPWHPfmrZ5dxr7lSuszGgDivoIG7SzsPiFP0CVFbRT4KMaDJCU8f6dx9RMakBZ9SABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 000002437100a800] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrgGyDwUnySDCCSoqopHd2XZr1PDA9fGNLyMBRf96INl4eHmcz1gwvtOMvnsnZVZUKCTxRTnRf0PXaqAmw7c-Z-59Fs34GYFjVt0as0jxjGGgmmtcAijGq3-ibjqIFYFYm5kBM6yBMwRA5h5CHRvJzOMUXgtumESrBSd492unEZccZl20JVCR748aDEDBKZxgLi6jl8abEYFUOCBcgu6-1lQNdxlgbQLnzucmL2C-P_enShPT-_0JMDhCoXCAOd2tpRePau-ifUhy5HrOUdzMhjyOysUVZkoDpOa7kNdNtX7kLUQ_PaYUBRS6U8wN2k6NsU8Mgy3BYP8H5S8-p9XIZfI7z4JtmPe6k2QVAvsWZyUrld8iMmB5-2SMK9z_sKLP56XZr-S-ZsdR4o6dJEfulZUU7quo-tb5AeAoPowbRpjBk9pybIj7ZJ8WGKQI7FTiuruJ4r8nV7hdUhWCZWwIjAZRVm8cbkqZ6UmNIIk6roypkgdG3vq7aunnLf8ZfMrMQGWRes9Og_N9SMi1UYU2wM757GD5CWFMs8kag3k-obLenAHAs_2R4kIbcJrkCE3psKyuMZT65sMkUDmXWpqaWBnd0-IEV4he5TFlN3TuxKk0fggUbL_yzjKyBXG97AhjrAOS3x9_v_0UMrdNLFkd-0TfM5mXyOo8YPbfOZGIkBz_LDv_StMIUQ99AnZGGam2k34TR2MIosFH7vZMdhgbw075k5Eqk-NyvaoQdtN8erP6Me77MPQO3AyvE2S7ZpQYdJ4yguSjETtuKdPdkSoX_81jHJSUCjJ_Uu_HXWmkLc9CANPv1IcERjrtNNWT1hDZNNSGYZ895kr38q3_B535hSP2958eIxC_M84M2R1RdsLF5iZ-tjk9KWYVTNe2zkbTnzhb2DlYUQ3zB3mP4dqbqku-mUYMIPfiqbz4WEISiFooJ3T3dCUXrXKP3FyxLliy90iPVHv-s5qdYse5OtpturDLHQkQdqX2VQjI-th79kppYhgH2N33qiNODzH-rLPLIubKo6735srxyyv8gqdzVdXphrFu9zWHdPOpUMPPDj2a0NNrSqmPyyLWDZ9iLfHjW4FDqqpc_dv24saDO1HhaYWWaWRY_UIiiABKgl1cy1lYXN0LTIwyhA.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_115208_11008.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+[in#0 @ 000001e675bfa240] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvQCcrc18B-YLL9YKeIWcm6L7LpUWvmRxnvNS1sKA3rFlqxgdjJzH4CS2cIHBeY4WpDZpXmIur9BRXVrxQBHJuiHwxIPJ1aEgNcWtBBnClaHfav5LgBkzrsf0vfKj4M9rzRYoZBVwLrnQQiasJr4q8Ji3CWWQv1M-1DsMeg0Jps6kG-I6Zj7WBP7XB2ILWTDxLEc7JBGKRIFPeoa6yeHGcP56xbXoN02TAjZ7JMmEoZOKB-k4RgnyJ7AfWcRtNLwF-d8PSnx5Gn51SXMklhWEyuUUnWuZg495dz7Z3RYaA3rCkFXXikncUk_YlXsRnUtV5dNlY3Jn9cH7wfWtd9uUTW9_FYrVmKMsXBQ-1aGASkVkk9PY4crnl8upSV8geoIk9kBz5DDIuoD3ks0Pue-A6IW1L8ykMvm_EYOV5hfwxbdFBAlmMCnZDOb01tsMZ0NRYR4IosEnGIhYimE0HGVB-tJruU_tKne1iFrwCOdkbJTanwGjS6DGgwNjo4LLRINtjhu9ZMgASoJdXMtZWFzdC0yMMoQ.ts?dna=CmZBIRf6d-fV4UoAAng7zBBzQf-wNIpedbEbg7Tf2ctWkkaWFV3_CzeHBK9HJ_Dy3HPyDjgEcR0KF_Q0nWF615WFr_DtQHQAfnrufB-mtB_9pG0JMGJ3N2uETnnTi9HO7osVnIaPss0aDAuBL_yZXQKgjEm0lyABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 000001e675bf9cc0] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CrYG6JQGdCnEr1rdDlEftUQdmEyEoHcXVsCZlgJlxh9lCX_1Ydwv0fP0QLRDf8dEvdkRnVFtlzJ3zJ-JBohy52zLDsma3jYocskLxLXwmObDZlEyFCU-DPOM_BGJWms7SF68dpv5A5Xwv7Ync41MWT77_Kwvb3JyWMMGWpyiM1ABjIedwy3I1dm26H6xsImPVjuLq35rY6puG4BqF1tOIlHEjjJku8OioeySUjmaAmkXCKi4wZvRGhKG5kwDItxX2x_OxuLXH4LYNv9y1vkSr-Jl4IDEbihSDulHNCgJJDD_NTvHHs_DCNecnZKY33Gz_ESPhmY_n9Y-6ZhAXZLT2EY2q4s3KNKl-KX4MNCwkVNLod2K9YgN8i80m_tCqNV7VbiZMcy8JcsUY6ubc3yVFDBpVHIGYYkPKgjtjT59FVOh1ZyhncxkQDApNftsIIzBOYTtn0i-s-dwFhOvyAj4LOzgUnH4fviDfHOagqQL1OhvTWfkx8c0Bz32qe76m5fIHOq8hOORV8l1j7DF06-iDIkxj6g9rvnDweVK_Xns8S1EGBB5Am1z4hgM1Fh8njxAgTahJ33T7Ry0I7fIBdgDnvfXvQu0_DYlYf0futyjtjVEMYx-tB2_EeDzuKd3kRlpyOz9r4m9KWrWwi1GgFcfPF5oy-FWbhMymvYQC5dFzX_UMPUE5Er15CAv1PWpLH2Xgp_m8uuVZ5XL6ZXSOxDPeqa6l5Plk5LAPlJHqMWLN8Qqjl79jWNzuvVACDVRPK2tFQ50oDo0oJl7lah0a_4NsWnpBrcRExI7G9nOUc1flDWwNl1kq7eWRfkHkJ4MvjmqvZ9vax_HK3GC0Nciu-aQZ1wVwVX92reIFeC5W-mFnPCatwSKWtS4VnpvhYKyPRpPXydS-yurPazllPj0OiZDcbASO-knkfvwZw9VduycSPKLo1sQgt6vK3yfU5Ak266koPHQBR_vynPSu_yFx44-xsCiY416fXxml-IWy2q-7kElaGBBj6uItxKymwvACTYrxGSTwNzUYqaAApBPM8k4MbAg8DQeZMW0gqkGHi-k3OsvZvtYPEdSQfZ3-WvkLBBtEPGsFWEykJotGgx7ugGhNRnt14wGmVAgASoJdXMtZWFzdC0yMMoQ.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_120218_4620.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+[in#0 @ 000001823a878680] Error when loading first segment 'https://fa723fc1b171.56a9b490b9b7.j.cloudfront.hls.live-video.net/v1/segment/CvICOtJ8QNXxD9Y-zKkNE8CjGrlpo9hAb_EgvBROAmUL4Om70V_Bv5LFCAusZQ1ZBK6vLkI2NTXqlCIpCI8M-cpWnu3isTCxWpRFLUXK9jK09rYiSKFQXRT9XEBohmUXMlfPxyrq5ZI8c_pBntag_mZObGInxjxvT3GVTkW9B1wtvo1K6zQGcjxrSewhC3UVSKeh9REygl_7fpRpk6fKb0vLY7plTtZ2n1in7Z8eEKWUS9mynablUnEF7BLWqyjPwVnr5-q7_t-uc4EXxMtx-yE_JvHsPBbCW2VmVQAJGo64-jXF2tGOlAVQmUYnFWAcYY3y1dWt8G-bk4tgizWdcrrqNOewwCJ3iOaa_s2MO55IWDkQrYmyP1jCH2osY9SVcT5mcfp0DmJcziPB2hKyNVCPHwsnE3TVawGHlGC64xSGueTjsljuAMLj1N6SZQS3XCgqMt3_nRkGkwTKQTNO-tCxGlGHeNRTIsEnG9CmnX41mZQPzhoMpyupLiKunI1WEj28IAEqCXVzLWVhc3QtMjDKEA.ts?dna=Cmaw5JfSb6XjsHmYq28zuLCLpU6egXZz3cHoY6vfnAxvx7KbvOv3VVM5z106QNDB49YcbBTYsRtwkNcwV9jJFnQ9_9nPzos4QxX0mFKXmomLSr1wi_lpqyy7IxKL0nd-_y8MAEHPgZ0aDHgleEH6cnBy1tutfSABKgl1cy1lYXN0LTIwyhA'
+[in#0 @ 000001823a878400] Error opening input: Invalid data found when processing input
+Error opening input file https://fa723fc1b171.sae12.playlist.live-video.net/v1/playlist/CqwGsh4ucvzkuFYowJiRbIU-RnzBcrNXiBMQ-fifdJJThdpxzUokMokGTsKok55uFWEWeYj5DOVHnqDAImqAEUVjZftCm3pL_o13ZEdtjwzvSi_P5un8fub_nxfKA6WdKKPpsxeh7nv51mOd8pDvgk9NhhIOxUwziISROSkzBX81L-8djzsPVcb97qPaFDr0ntFK9V_Ly3cH2ImYLMdBk8nhaoKZDjMlWyuUi3mbDGmFg6Mvo_89Yhjz4UXE5cAzc1Ai330v1Y-_JhvXquvm-l6OUH80RMLZ1M8aYjkpa1nseIVALR1PGCNGuewa2A3onUABQDyh7MfDYulDs_JwSwTpNtRiaWdsbix4Wfz48E71ZccXax9P6T_Hmi3pGbsLYPtZe-7z_UmfiKhwY-P2Gd4nK4uPLl0SE_tiAtjqPPvDQ1Lr6v3LSSoF9xMpz_xUQLGKrMq6BsPVmZw3HhqgvxEBGsO-x3KtOUMiCQfen3TwDc3DE5IfQLBYXJacwlrkQ4EhGh1A5zOk8I9tUuNmhF21gqwRLiJSYPUL5CWeos7QIm8jrdQB0_A89XiJjjfyVHWiOVxeqRPDq0K5AErj1a14sXQrWwjxKAg-Gb_etoHymo6wCYMs3YavCAtByy_J_rVfAKhctgBSJmOMG_1bHRBE7W0P9czsFFn3Dpn02KtoswsRkzB-u6yRSLmA6SIa-WMz1HhZAnNkniqqYtkUbEBMK-IQSD6r9wPK9RIH-CRD2z9hgZKkH1emgpFilQtA09LaiU-Uugd241sHA19laLjJXSlo2o0HbFZSui--3jv8Sr2EssSLFYdfQ8dXMiP7fmryarJKe-K4Qt1oX53urXllGCmobcNRmYpy5dztBVFBRq0wtAAR6wrRyB4YonPbIUYeyHDd4OIN3lxjSHosEwtBufqpL5WHDRUcWDw8jgmj0viPB58Vp0XUpovLoMvPIxMuKsGEL1qZxyzPcSMo7TryydhAw7M6wKcVx9InBARj9wEdvrkHlYKBZaZD8vtR6P2tQoSvyU9N41nArqQ0bcY_NdDAksK32QEYwYo593ipiUhHckOFj48csTG4_TUaDNWMOJGQmRlxFdu91SABKgl1cy1lYXN0LTIwyhA.m3u8.
+Error opening input files: Invalid data found when processing input
+Gravando a live em live_20261118_121226_4508.ts. Primeiros 180s só para aprender o 'volume normal'.
+Pressione Ctrl+C para parar.
+
+
+A live terminou.
+Terminando de renderizar os cortes que estão na fila (aguarde)...
+
+Pronto. 0 corte(s) gerado(s). Abra o painel:  streamlit run painel.py
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
+Não consegui obter o stream desse link.
+
+Erro do yt-dlp:
+ERROR: [kick:live] paulinholokobr: Failed to download m3u8 information: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+
+
+Formatos que o yt-dlp enxerga (copie isto se precisar de ajuda):
+[kick:live] Extracting URL: https://kick.com/paulinholokobr
+[kick:live] paulinholokobr: Downloading API JSON
+[kick:live] paulinholokobr: Downloading m3u8 information
+
+
+Confira: a live está AO VIVO agora (não é estreia agendada nem live já encerrada)? Abre no navegador sem login? Se a live já acabou, use o clipador.py --url.
